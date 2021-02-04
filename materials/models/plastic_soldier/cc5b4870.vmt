@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/plastic_soldier/cc5b4870"
+
+	
+	"$phongalbedotint" "1"	
+
+	"$phong" "1.5"
+	"$phongexponent" "10"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.3 1 8]"
+
+
+}

@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$basetexture" "models/tdell/eyeball_l"
+	"$iris" "models/tdell/pupil_l"
+}

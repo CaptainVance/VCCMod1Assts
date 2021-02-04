@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "skybox/hollybk"
+	"$translucent" 1
+}

@@ -1,0 +1,10 @@
+"unlitgeneric"
+{
+	// Original shader: TranslucentSpecularSphericalEnvMap
+	"$basetexture" "models/Combine_Guard_ally/glass"
+	"$additive" 1
+	"$envmap" "models/Combine_Guard_ally/glass"
+	"$envmapsphere" 1
+	"$model" 1
+	"$translucent" 1
+}

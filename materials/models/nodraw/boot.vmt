@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$no_draw" 1//"models/Police/boot"
+	"$envmapmask" "models/Police/boot_mask"
+	"$envmap" "models/Police/envmap"
+	"$envmapsphere" 1
+	"$multipass" 1
+}

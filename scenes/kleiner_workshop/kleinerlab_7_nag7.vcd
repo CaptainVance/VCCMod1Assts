@@ -1,0 +1,29 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Please gordon"
+    {
+      time 0.000000 2.065306
+      param "k_lab.kleiner_40"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at player"
+    {
+      time 0.000000 2.093333
+      param "!player"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "GestureTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	// Original shader: TranslucentSpecularSphericalEnvMapWithMaskedBase
+	"$additive" 1
+	"$basealphaenvmapmask" 1
+	"$basetexture" "models/Window/glasswindow"
+	"$envmap" "models/Window/reflection"
+	"$envmapsphere" 1
+	"$model" 1
+}

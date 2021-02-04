@@ -1,0 +1,32 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Slip into your suit"
+    {
+      time 0.019999 4.012925
+      param "k_lab.kleiner_37"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at player"
+    {
+      time 0.000000 4.026667
+      param "!player"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off

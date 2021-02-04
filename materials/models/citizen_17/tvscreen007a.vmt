@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$model" "1"
+	"$basetexture" "props/tvscreen007a"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+}

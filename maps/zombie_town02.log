@@ -1,0 +1,3676 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blenddirtdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1373625 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDDIRTDIRT001A uses unknown detail object type citygrass01!
+10
+Compacting texture/material tables...
+Reduced 1434 texinfos to 1009
+Reduced 41 texdatas to 38 (940 bytes to 796)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1178 portalclusters
+4453 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 7780 visible clusters (0.59%)
+Total clusters visible: 1309007
+Average clusters visible: 1111
+Building PAS...
+Average clusters audible: 1175
+visdatasize:356163  compressed from 358112
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3913 faces
+1876418 square feet [270204320.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3913 patches before subdivision
+31159 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3895316, max 1269
+transfer lists:  29.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(223737, 207049, 128228)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(15730, 12322, 6175)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1852, 1281, 527)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(219, 132, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30, 16, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0081 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                624/8192         7488/98304    ( 7.6%) 
+brushsides            5460/65536       43680/524288   ( 8.3%) 
+planes                4694/65536       93880/1310720  ( 7.2%) 
+vertexes              5840/65536       70080/786432   ( 8.9%) 
+nodes                 2012/65536       64384/2097152  ( 3.1%) 
+texinfos              1009/12288       72648/884736   ( 8.2%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3913/65536      219128/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2387/65536      133672/3670016  ( 3.6%) 
+leaves                2014/65536       64448/2097152  ( 3.1%) 
+leaffaces             4597/65536        9194/131072   ( 7.0%) 
+leafbrushes           1458/65536        2916/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29110/512000     116440/2048000  ( 5.7%) 
+edges                16451/256000      65804/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            348/32768        3480/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6216/65536       12432/131072   ( 9.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1486504/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      356163/16777216 ( 2.1%) 
+entdata               [variable]       25230/393216   ( 6.4%) 
+LDR ambient table     2014/65536        8056/262144   ( 3.1%) 
+HDR ambient table     2014/65536        8056/262144   ( 3.1%) 
+LDR leaf ambient     11583/65536      324324/1835008  (17.7%) 
+HDR leaf ambient      2014/65536       56392/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174532/0        ( 0.0%) 
+physics               [variable]     1373625/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11299
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3913 faces
+1876418 square feet [270204320.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3913 patches before subdivision
+31159 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3895316, max 1269
+transfer lists:  29.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(223737, 207049, 128228)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(15730, 12322, 6175)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1852, 1281, 527)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(219, 132, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30, 16, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                624/8192         7488/98304    ( 7.6%) 
+brushsides            5460/65536       43680/524288   ( 8.3%) 
+planes                4694/65536       93880/1310720  ( 7.2%) 
+vertexes              5840/65536       70080/786432   ( 8.9%) 
+nodes                 2012/65536       64384/2097152  ( 3.1%) 
+texinfos              1009/12288       72648/884736   ( 8.2%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3913/65536      219128/3670016  ( 6.0%) 
+hdr faces             3913/65536      219128/3670016  ( 6.0%) 
+origfaces             2387/65536      133672/3670016  ( 3.6%) 
+leaves                2014/65536       64448/2097152  ( 3.1%) 
+leaffaces             4597/65536        9194/131072   ( 7.0%) 
+leafbrushes           1458/65536        2916/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29110/512000     116440/2048000  ( 5.7%) 
+edges                16451/256000      65804/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            348/32768        3480/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6216/65536       12432/131072   ( 9.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1486504/0        ( 0.0%) 
+HDR lightdata         [variable]     1486504/0        ( 0.0%) 
+visdata               [variable]      356163/16777216 ( 2.1%) 
+entdata               [variable]       25230/393216   ( 6.4%) 
+LDR ambient table     2014/65536        8056/262144   ( 3.1%) 
+HDR ambient table     2014/65536        8056/262144   ( 3.1%) 
+LDR leaf ambient     11583/65536      324324/1835008  (17.7%) 
+HDR leaf ambient     11583/65536      324324/1835008  (17.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174532/0        ( 0.0%) 
+physics               [variable]     1373625/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11299
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1372841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1424 texinfos to 999
+Reduced 45 texdatas to 42 (1034 bytes to 891)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1171 portalclusters
+4410 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8067 visible clusters (0.62%)
+Total clusters visible: 1292651
+Average clusters visible: 1103
+Building PAS...
+Average clusters audible: 1168
+visdatasize:351478  compressed from 355984
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3898 faces
+1876387 square feet [270199840.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3898 patches before subdivision
+31130 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3889828, max 1266
+transfer lists:  29.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(156875, 140049, 74669)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11037, 8277, 3532)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1206, 789, 278)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                622/8192         7464/98304    ( 7.6%) 
+brushsides            5448/65536       43584/524288   ( 8.3%) 
+planes                4680/65536       93600/1310720  ( 7.1%) 
+vertexes              5818/65536       69816/786432   ( 8.9%) 
+nodes                 2002/65536       64064/2097152  ( 3.1%) 
+texinfos               999/12288       71928/884736   ( 8.1%) 
+texdata                 42/2048         1344/65536    ( 2.1%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3898/65536      218288/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2375/65536      133000/3670016  ( 3.6%) 
+leaves                2004/65536       64128/2097152  ( 3.1%) 
+leaffaces             4573/65536        9146/131072   ( 7.0%) 
+leafbrushes           1457/65536        2914/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29012/512000     116048/2048000  ( 5.7%) 
+edges                16411/256000      65644/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6276/65536       12552/131072   ( 9.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1488836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      351478/16777216 ( 2.1%) 
+entdata               [variable]       38572/393216   ( 9.8%) 
+LDR ambient table     2004/65536        8016/262144   ( 3.1%) 
+HDR ambient table     2004/65536        8016/262144   ( 3.1%) 
+LDR leaf ambient     11485/65536      321580/1835008  (17.5%) 
+HDR leaf ambient      2004/65536       56112/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1372841/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11279
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1372465 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1419 texinfos to 994
+Reduced 45 texdatas to 42 (1034 bytes to 891)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1167 portalclusters
+4393 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8027 visible clusters (0.63%)
+Total clusters visible: 1283607
+Average clusters visible: 1099
+Building PAS...
+Average clusters audible: 1164
+visdatasize:347926  compressed from 354768
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3887 faces
+1875563 square feet [270081120.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3887 patches before subdivision
+31103 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3882009, max 1263
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(156788, 139979, 74632)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11032, 8274, 3531)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1206, 789, 278)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                621/8192         7452/98304    ( 7.6%) 
+brushsides            5442/65536       43536/524288   ( 8.3%) 
+planes                4678/65536       93560/1310720  ( 7.1%) 
+vertexes              5802/65536       69624/786432   ( 8.9%) 
+nodes                 1998/65536       63936/2097152  ( 3.0%) 
+texinfos               994/12288       71568/884736   ( 8.1%) 
+texdata                 42/2048         1344/65536    ( 2.1%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3887/65536      217672/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2370/65536      132720/3670016  ( 3.6%) 
+leaves                2000/65536       64000/2097152  ( 3.1%) 
+leaffaces             4563/65536        9126/131072   ( 7.0%) 
+leafbrushes           1456/65536        2912/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            28933/512000     115732/2048000  ( 5.7%) 
+edges                16356/256000      65424/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6267/65536       12534/131072   ( 9.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1488216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      347926/16777216 ( 2.1%) 
+entdata               [variable]       41873/393216   (10.6%) 
+LDR ambient table     2000/65536        8000/262144   ( 3.1%) 
+HDR ambient table     2000/65536        8000/262144   ( 3.1%) 
+LDR leaf ambient     11439/65536      320292/1835008  (17.5%) 
+HDR leaf ambient      2000/65536       56000/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1372465/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11242
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1372073 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1415 texinfos to 992
+Reduced 44 texdatas to 41 (1016 bytes to 873)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1164 portalclusters
+4385 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 7407 visible clusters (0.58%)
+Total clusters visible: 1279056
+Average clusters visible: 1098
+Building PAS...
+Average clusters audible: 1161
+visdatasize:347084  compressed from 353856
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3880 faces
+1875482 square feet [270069472.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3880 patches before subdivision
+31094 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3876993, max 1260
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(156719, 139926, 74606)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11030, 8273, 3530)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1206, 789, 278)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0078 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                620/8192         7440/98304    ( 7.6%) 
+brushsides            5436/65536       43488/524288   ( 8.3%) 
+planes                4674/65536       93480/1310720  ( 7.1%) 
+vertexes              5794/65536       69528/786432   ( 8.8%) 
+nodes                 1992/65536       63744/2097152  ( 3.0%) 
+texinfos               992/12288       71424/884736   ( 8.1%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3880/65536      217280/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2367/65536      132552/3670016  ( 3.6%) 
+leaves                1994/65536       63808/2097152  ( 3.0%) 
+leaffaces             4555/65536        9110/131072   ( 7.0%) 
+leafbrushes           1455/65536        2910/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            28889/512000     115556/2048000  ( 5.6%) 
+edges                16331/256000      65324/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6258/65536       12516/131072   ( 9.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1487860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      347084/16777216 ( 2.1%) 
+entdata               [variable]       43482/393216   (11.1%) 
+LDR ambient table     1994/65536        7976/262144   ( 3.0%) 
+HDR ambient table     1994/65536        7976/262144   ( 3.0%) 
+LDR leaf ambient     11406/65536      319368/1835008  (17.4%) 
+HDR leaf ambient      1994/65536       55832/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1372073/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11224
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1372825 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1421 texinfos to 998
+Reduced 43 texdatas to 40 (994 bytes to 851)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1172 portalclusters
+4413 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9840 visible clusters (0.76%)
+Total clusters visible: 1295073
+Average clusters visible: 1105
+Building PAS...
+Average clusters audible: 1169
+visdatasize:351740  compressed from 356288
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3904 faces
+1875573 square feet [270082528.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3904 patches before subdivision
+31126 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3882725, max 1264
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157006, 140159, 74753)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11056, 8291, 3538)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1208, 790, 279)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0080 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                622/8192         7464/98304    ( 7.6%) 
+brushsides            5448/65536       43584/524288   ( 8.3%) 
+planes                4674/65536       93480/1310720  ( 7.1%) 
+vertexes              5829/65536       69948/786432   ( 8.9%) 
+nodes                 2006/65536       64192/2097152  ( 3.1%) 
+texinfos               998/12288       71856/884736   ( 8.1%) 
+texdata                 40/2048         1280/65536    ( 2.0%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3904/65536      218624/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2383/65536      133448/3670016  ( 3.6%) 
+leaves                2008/65536       64256/2097152  ( 3.1%) 
+leaffaces             4580/65536        9160/131072   ( 7.0%) 
+leafbrushes           1469/65536        2938/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29081/512000     116324/2048000  ( 5.7%) 
+edges                16431/256000      65724/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            360/32768        3600/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6354/65536       12708/131072   ( 9.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1490048/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      351740/16777216 ( 2.1%) 
+entdata               [variable]       43714/393216   (11.1%) 
+LDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+HDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+LDR leaf ambient     11430/65536      320040/1835008  (17.4%) 
+HDR leaf ambient      2008/65536       56224/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1372825/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11304
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+18 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1372793 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1423 texinfos to 1000
+Reduced 44 texdatas to 41 (1011 bytes to 868)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1172 portalclusters
+4411 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9867 visible clusters (0.76%)
+Total clusters visible: 1294326
+Average clusters visible: 1104
+Building PAS...
+Average clusters audible: 1169
+visdatasize:351726  compressed from 356288
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3900 faces
+1875574 square feet [270082720.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3900 patches before subdivision
+31130 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3881321, max 1263
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157043, 140429, 75063)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11061, 8306, 3550)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1208, 791, 279)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0080 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                622/8192         7464/98304    ( 7.6%) 
+brushsides            5448/65536       43584/524288   ( 8.3%) 
+planes                4670/65536       93400/1310720  ( 7.1%) 
+vertexes              5824/65536       69888/786432   ( 8.9%) 
+nodes                 2006/65536       64192/2097152  ( 3.1%) 
+texinfos              1000/12288       72000/884736   ( 8.1%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3900/65536      218400/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2382/65536      133392/3670016  ( 3.6%) 
+leaves                2008/65536       64256/2097152  ( 3.1%) 
+leaffaces             4576/65536        9152/131072   ( 7.0%) 
+leafbrushes           1469/65536        2938/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29055/512000     116220/2048000  ( 5.7%) 
+edges                16419/256000      65676/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            360/32768        3600/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6354/65536       12708/131072   ( 9.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1489700/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      351726/16777216 ( 2.1%) 
+entdata               [variable]       43714/393216   (11.1%) 
+LDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+HDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+LDR leaf ambient     11426/65536      319928/1835008  (17.4%) 
+HDR leaf ambient      2008/65536       56224/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1372793/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11290
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+18 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1372793 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1423 texinfos to 1000
+Reduced 44 texdatas to 41 (1011 bytes to 868)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1172 portalclusters
+4411 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9867 visible clusters (0.76%)
+Total clusters visible: 1294326
+Average clusters visible: 1104
+Building PAS...
+Average clusters audible: 1169
+visdatasize:351726  compressed from 356288
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3900 faces
+1875574 square feet [270082720.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3900 patches before subdivision
+31130 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3881321, max 1263
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157043, 140429, 75063)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11061, 8306, 3550)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1208, 791, 279)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0080 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                622/8192         7464/98304    ( 7.6%) 
+brushsides            5448/65536       43584/524288   ( 8.3%) 
+planes                4670/65536       93400/1310720  ( 7.1%) 
+vertexes              5824/65536       69888/786432   ( 8.9%) 
+nodes                 2006/65536       64192/2097152  ( 3.1%) 
+texinfos              1000/12288       72000/884736   ( 8.1%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3900/65536      218400/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2382/65536      133392/3670016  ( 3.6%) 
+leaves                2008/65536       64256/2097152  ( 3.1%) 
+leaffaces             4576/65536        9152/131072   ( 7.0%) 
+leafbrushes           1469/65536        2938/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29055/512000     116220/2048000  ( 5.7%) 
+edges                16419/256000      65676/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            360/32768        3600/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6354/65536       12708/131072   ( 9.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1489700/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      351726/16777216 ( 2.1%) 
+entdata               [variable]       43714/393216   (11.1%) 
+LDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+HDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+LDR leaf ambient     11426/65536      319928/1835008  (17.4%) 
+HDR leaf ambient      2008/65536       56224/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1372793/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11290
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1372793 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1423 texinfos to 1000
+Reduced 44 texdatas to 41 (1011 bytes to 868)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1172 portalclusters
+4411 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9867 visible clusters (0.76%)
+Total clusters visible: 1294326
+Average clusters visible: 1104
+Building PAS...
+Average clusters audible: 1169
+visdatasize:351726  compressed from 356288
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3900 faces
+1875574 square feet [270082720.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3900 patches before subdivision
+31130 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3881321, max 1263
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157043, 140429, 75063)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11061, 8306, 3550)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1208, 791, 279)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0080 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                622/8192         7464/98304    ( 7.6%) 
+brushsides            5448/65536       43584/524288   ( 8.3%) 
+planes                4670/65536       93400/1310720  ( 7.1%) 
+vertexes              5824/65536       69888/786432   ( 8.9%) 
+nodes                 2006/65536       64192/2097152  ( 3.1%) 
+texinfos              1000/12288       72000/884736   ( 8.1%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3900/65536      218400/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2382/65536      133392/3670016  ( 3.6%) 
+leaves                2008/65536       64256/2097152  ( 3.1%) 
+leaffaces             4576/65536        9152/131072   ( 7.0%) 
+leafbrushes           1469/65536        2938/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29055/512000     116220/2048000  ( 5.7%) 
+edges                16419/256000      65676/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            360/32768        3600/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6354/65536       12708/131072   ( 9.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1489700/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      351726/16777216 ( 2.1%) 
+entdata               [variable]       43732/393216   (11.1%) 
+LDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+HDR ambient table     2008/65536        8032/262144   ( 3.1%) 
+LDR leaf ambient     11426/65536      319928/1835008  (17.4%) 
+HDR leaf ambient      2008/65536       56224/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1372793/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11290
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1371824 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1421 texinfos to 999
+Reduced 47 texdatas to 44 (1109 bytes to 966)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1172 portalclusters
+4416 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9658 visible clusters (0.75%)
+Total clusters visible: 1294973
+Average clusters visible: 1104
+Building PAS...
+Average clusters audible: 1169
+visdatasize:351785  compressed from 356288
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3890 faces
+1875357 square feet [270051488.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3890 patches before subdivision
+31114 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3875204, max 1261
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157029, 140630, 75668)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11059, 8325, 3582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1208, 793, 281)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0080 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                620/8192         7440/98304    ( 7.6%) 
+brushsides            5436/65536       43488/524288   ( 8.3%) 
+planes                4666/65536       93320/1310720  ( 7.1%) 
+vertexes              5811/65536       69732/786432   ( 8.9%) 
+nodes                 2005/65536       64160/2097152  ( 3.1%) 
+texinfos               999/12288       71928/884736   ( 8.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3890/65536      217840/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2373/65536      132888/3670016  ( 3.6%) 
+leaves                2007/65536       64224/2097152  ( 3.1%) 
+leaffaces             4566/65536        9132/131072   ( 7.0%) 
+leafbrushes           1466/65536        2932/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            28973/512000     115892/2048000  ( 5.7%) 
+edges                16373/256000      65492/1024000  ( 6.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            360/32768        3600/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6351/65536       12702/131072   ( 9.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1491376/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      351785/16777216 ( 2.1%) 
+entdata               [variable]       45494/393216   (11.6%) 
+LDR ambient table     2007/65536        8028/262144   ( 3.1%) 
+HDR ambient table     2007/65536        8028/262144   ( 3.1%) 
+LDR leaf ambient     11435/65536      320180/1835008  (17.4%) 
+HDR leaf ambient      2007/65536       56196/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1371824/4194304  (32.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11264
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1373656 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1425 texinfos to 1003
+Reduced 47 texdatas to 44 (1109 bytes to 966)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1181 portalclusters
+4449 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10425 visible clusters (0.79%)
+Total clusters visible: 1314933
+Average clusters visible: 1113
+Building PAS...
+Average clusters audible: 1178
+visdatasize:356814  compressed from 359024
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3917 faces
+1875280 square feet [270040352.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3917 patches before subdivision
+31159 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3883943, max 1261
+transfer lists:  29.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157310, 140893, 75816)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11073, 8340, 3591)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1209, 794, 282)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0080 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                625/8192         7500/98304    ( 7.6%) 
+brushsides            5466/65536       43728/524288   ( 8.3%) 
+planes                4678/65536       93560/1310720  ( 7.1%) 
+vertexes              5849/65536       70188/786432   ( 8.9%) 
+nodes                 2020/65536       64640/2097152  ( 3.1%) 
+texinfos              1003/12288       72216/884736   ( 8.2%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3917/65536      219352/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2395/65536      134120/3670016  ( 3.7%) 
+leaves                2022/65536       64704/2097152  ( 3.1%) 
+leaffaces             4597/65536        9194/131072   ( 7.0%) 
+leafbrushes           1472/65536        2944/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29203/512000     116812/2048000  ( 5.7%) 
+edges                16504/256000      66016/1024000  ( 6.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            359/32768        3590/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6339/65536       12678/131072   ( 9.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1495436/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      356814/16777216 ( 2.1%) 
+entdata               [variable]       45679/393216   (11.6%) 
+LDR ambient table     2022/65536        8088/262144   ( 3.1%) 
+HDR ambient table     2022/65536        8088/262144   ( 3.1%) 
+LDR leaf ambient     11444/65536      320432/1835008  (17.5%) 
+HDR leaf ambient      2022/65536       56616/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1373656/4194304  (32.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11352
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1374096 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1430 texinfos to 1009
+Reduced 47 texdatas to 44 (1109 bytes to 966)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1183 portalclusters
+4459 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9338 visible clusters (0.71%)
+Total clusters visible: 1321106
+Average clusters visible: 1116
+Building PAS...
+Average clusters audible: 1180
+visdatasize:357473  compressed from 359632
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3927 faces
+1875958 square feet [270138080.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3927 patches before subdivision
+31169 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3890125, max 1264
+transfer lists:  29.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157527, 141083, 75956)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11098, 8358, 3601)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1211, 795, 282)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(136, 77, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0078 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                626/8192         7512/98304    ( 7.6%) 
+brushsides            5472/65536       43776/524288   ( 8.3%) 
+planes                4682/65536       93640/1310720  ( 7.1%) 
+vertexes              5865/65536       70380/786432   ( 8.9%) 
+nodes                 2021/65536       64672/2097152  ( 3.1%) 
+texinfos              1009/12288       72648/884736   ( 8.2%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3927/65536      219912/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2400/65536      134400/3670016  ( 3.7%) 
+leaves                2023/65536       64736/2097152  ( 3.1%) 
+leaffaces             4605/65536        9210/131072   ( 7.0%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29278/512000     117112/2048000  ( 5.7%) 
+edges                16562/256000      66248/1024000  ( 6.5%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            361/32768        3610/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6378/65536       12756/131072   ( 9.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1495988/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      357473/16777216 ( 2.1%) 
+entdata               [variable]       46677/393216   (11.9%) 
+LDR ambient table     2023/65536        8092/262144   ( 3.1%) 
+HDR ambient table     2023/65536        8092/262144   ( 3.1%) 
+LDR leaf ambient     11494/65536      321832/1835008  (17.5%) 
+HDR leaf ambient      2023/65536       56644/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1374096/4194304  (32.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11387
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1382320 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1433 texinfos to 1012
+Reduced 50 texdatas to 47 (1182 bytes to 1039)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1199 portalclusters
+4519 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 11396 visible clusters (0.84%)
+Total clusters visible: 1357258
+Average clusters visible: 1131
+Building PAS...
+Average clusters audible: 1196
+visdatasize:367021  compressed from 364496
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3968 faces
+1879674 square feet [270673184.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3968 patches before subdivision
+31302 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3939047, max 1262
+transfer lists:  30.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157863, 141307, 76085)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11166, 8417, 3642)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1220, 802, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(138, 78, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                652/8192         7824/98304    ( 8.0%) 
+brushsides            5628/65536       45024/524288   ( 8.6%) 
+planes                4696/65536       93920/1310720  ( 7.2%) 
+vertexes              5954/65536       71448/786432   ( 9.1%) 
+nodes                 2051/65536       65632/2097152  ( 3.1%) 
+texinfos              1012/12288       72864/884736   ( 8.2%) 
+texdata                 47/2048         1504/65536    ( 2.3%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3968/65536      222208/3670016  ( 6.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2435/65536      136360/3670016  ( 3.7%) 
+leaves                2053/65536       65696/2097152  ( 3.1%) 
+leaffaces             4654/65536        9308/131072   ( 7.1%) 
+leafbrushes           1509/65536        3018/131072   ( 2.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29604/512000     118416/2048000  ( 5.8%) 
+edges                16768/256000      67072/1024000  ( 6.5%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            365/32768        3650/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6462/65536       12924/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1506416/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      367021/16777216 ( 2.2%) 
+entdata               [variable]       49826/393216   (12.7%) 
+LDR ambient table     2053/65536        8212/262144   ( 3.1%) 
+HDR ambient table     2053/65536        8212/262144   ( 3.1%) 
+LDR leaf ambient     11604/65536      324912/1835008  (17.7%) 
+HDR leaf ambient      2053/65536       57484/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1382320/4194304  (33.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11491
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1383760 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1432 texinfos to 1012
+Reduced 50 texdatas to 47 (1182 bytes to 1039)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1202 portalclusters
+4526 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 12174 visible clusters (0.89%)
+Total clusters visible: 1363755
+Average clusters visible: 1134
+Building PAS...
+Average clusters audible: 1199
+visdatasize:370561  compressed from 365408
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3985 faces
+1879639 square feet [270668064.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3985 patches before subdivision
+31317 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3941603, max 1262
+transfer lists:  30.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157970, 141415, 76157)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11174, 8425, 3646)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1221, 803, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(138, 78, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0081 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                656/8192         7872/98304    ( 8.0%) 
+brushsides            5652/65536       45216/524288   ( 8.6%) 
+planes                4702/65536       94040/1310720  ( 7.2%) 
+vertexes              5980/65536       71760/786432   ( 9.1%) 
+nodes                 2059/65536       65888/2097152  ( 3.1%) 
+texinfos              1012/12288       72864/884736   ( 8.2%) 
+texdata                 47/2048         1504/65536    ( 2.3%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3985/65536      223160/3670016  ( 6.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2449/65536      137144/3670016  ( 3.7%) 
+leaves                2061/65536       65952/2097152  ( 3.1%) 
+leaffaces             4671/65536        9342/131072   ( 7.1%) 
+leafbrushes           1514/65536        3028/131072   ( 2.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29754/512000     119016/2048000  ( 5.8%) 
+edges                16859/256000      67436/1024000  ( 6.6%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            365/32768        3650/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6462/65536       12924/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1507716/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      370561/16777216 ( 2.2%) 
+entdata               [variable]       49930/393216   (12.7%) 
+LDR ambient table     2061/65536        8244/262144   ( 3.1%) 
+HDR ambient table     2061/65536        8244/262144   ( 3.1%) 
+LDR leaf ambient     11620/65536      325360/1835008  (17.7%) 
+HDR leaf ambient      2061/65536       57708/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1383760/4194304  (33.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11551
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1383760 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1432 texinfos to 1012
+Reduced 50 texdatas to 47 (1182 bytes to 1039)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1202 portalclusters
+4526 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 12174 visible clusters (0.89%)
+Total clusters visible: 1363755
+Average clusters visible: 1134
+Building PAS...
+Average clusters audible: 1199
+visdatasize:370561  compressed from 365408
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3985 faces
+1879639 square feet [270668064.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3985 patches before subdivision
+31317 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3941603, max 1262
+transfer lists:  30.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157969, 141415, 76156)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11174, 8425, 3646)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1221, 803, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(138, 78, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                656/8192         7872/98304    ( 8.0%) 
+brushsides            5652/65536       45216/524288   ( 8.6%) 
+planes                4702/65536       94040/1310720  ( 7.2%) 
+vertexes              5980/65536       71760/786432   ( 9.1%) 
+nodes                 2059/65536       65888/2097152  ( 3.1%) 
+texinfos              1012/12288       72864/884736   ( 8.2%) 
+texdata                 47/2048         1504/65536    ( 2.3%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3985/65536      223160/3670016  ( 6.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2449/65536      137144/3670016  ( 3.7%) 
+leaves                2061/65536       65952/2097152  ( 3.1%) 
+leaffaces             4671/65536        9342/131072   ( 7.1%) 
+leafbrushes           1514/65536        3028/131072   ( 2.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29754/512000     119016/2048000  ( 5.8%) 
+edges                16859/256000      67436/1024000  ( 6.6%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            365/32768        3650/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6462/65536       12924/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1507716/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      370561/16777216 ( 2.2%) 
+entdata               [variable]       49937/393216   (12.7%) 
+LDR ambient table     2061/65536        8244/262144   ( 3.1%) 
+HDR ambient table     2061/65536        8244/262144   ( 3.1%) 
+LDR leaf ambient     11620/65536      325360/1835008  (17.7%) 
+HDR leaf ambient      2061/65536       57708/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1383760/4194304  (33.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11551
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+Patching WVT material: maps/zombie_town02/nature/blendgrassdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1383760 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1432 texinfos to 1012
+Reduced 50 texdatas to 47 (1182 bytes to 1039)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.prt
+1202 portalclusters
+4526 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 12174 visible clusters (0.89%)
+Total clusters visible: 1363755
+Average clusters visible: 1134
+Building PAS...
+Average clusters audible: 1199
+visdatasize:370561  compressed from 365408
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+3985 faces
+1879639 square feet [270668064.00 square inches]
+89 Displacements
+504702 Square Feet [72677088.00 Square Inches]
+3985 patches before subdivision
+31317 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3941603, max 1262
+transfer lists:  30.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157970, 141415, 76157)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11174, 8425, 3646)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1221, 803, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(138, 78, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                656/8192         7872/98304    ( 8.0%) 
+brushsides            5652/65536       45216/524288   ( 8.6%) 
+planes                4702/65536       94040/1310720  ( 7.2%) 
+vertexes              5980/65536       71760/786432   ( 9.1%) 
+nodes                 2059/65536       65888/2097152  ( 3.1%) 
+texinfos              1012/12288       72864/884736   ( 8.2%) 
+texdata                 47/2048         1504/65536    ( 2.3%) 
+dispinfos               89/0           15664/0        ( 0.0%) 
+disp_verts            6297/0          125940/0        ( 0.0%) 
+disp_tris             9856/0           19712/0        ( 0.0%) 
+disp_lmsamples       49916/0           49916/0        ( 0.0%) 
+faces                 3985/65536      223160/3670016  ( 6.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2449/65536      137144/3670016  ( 3.7%) 
+leaves                2061/65536       65952/2097152  ( 3.1%) 
+leaffaces             4671/65536        9342/131072   ( 7.1%) 
+leafbrushes           1514/65536        3028/131072   ( 2.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            29754/512000     119016/2048000  ( 5.8%) 
+edges                16859/256000      67436/1024000  ( 6.6%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            365/32768        3650/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6462/65536       12924/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1507716/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      370561/16777216 ( 2.2%) 
+entdata               [variable]       49937/393216   (12.7%) 
+LDR ambient table     2061/65536        8244/262144   ( 3.1%) 
+HDR ambient table     2061/65536        8244/262144   ( 3.1%) 
+LDR leaf ambient     11620/65536      325360/1835008  (17.7%) 
+HDR leaf ambient      2061/65536       57708/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/663872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      174452/0        ( 0.0%) 
+physics               [variable]     1383760/4194304  (33.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11551
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\maps\zombie_town02.bsp
+17 seconds elapsed

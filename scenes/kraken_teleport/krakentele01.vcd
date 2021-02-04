@@ -1,0 +1,44 @@
+// Choreo version 1
+actor "Mossman"
+{
+  channel "Voice"
+  {
+    event speak "Well well"
+    {
+      time 0.500000 6.650023
+      param "krak_tele.mossman_01"
+      fixedlength
+    }
+    event speak "2"
+    {
+      time 6.913333 16.321949
+      param "krak_tele.mossman_02"
+      fixedlength
+    }
+    event speak "3"
+    {
+      time 16.373333 28.994648
+      param "krak_tele.mossman_03"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at player"
+    {
+      time 0.219999 29.059999
+      param "!player"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

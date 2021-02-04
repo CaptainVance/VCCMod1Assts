@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shadertest/cloud"
+	"$translucent" 1
+}

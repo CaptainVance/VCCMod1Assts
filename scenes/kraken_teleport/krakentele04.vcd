@@ -1,0 +1,95 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Voice"
+  {
+    event speak "I'll get him out of there"
+    {
+      time 0.000000 1.193288
+      param "krak_tele.barney_08"
+      fixedlength
+    }
+    event speak "14"
+    {
+      time 13.086666 14.693015
+      param "krak_tele.barney_14"
+      fixedlength
+    }
+  }
+  channel "Voice"
+  {
+    event lookat "Look at player"
+    {
+      time 6.760000 14.693334
+      param "!player"
+    }
+  }
+}
+
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "You can't"
+    {
+      time 1.253333 4.007074
+      param "krak_tele.kleiner_09"
+      fixedlength
+    }
+    event speak "11"
+    {
+      time 6.873334 10.086033
+      param "krak_tele.kleiner_11"
+      fixedlength
+    }
+    event speak "13"
+    {
+      time 12.146667 13.064580
+      param "krak_tele.kleiner_13"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at barney"
+    {
+      time 0.906667 4.073334
+      param "Barney"
+    }
+    event lookat "Look at monitor"
+    {
+      time 6.486667 13.266666
+      param "!target1"
+    }
+  }
+}
+
+actor "Mossman"
+{
+  channel "Voice"
+  {
+    event speak "10"
+    {
+      time 4.093334 6.801179
+      param "krak_tele.mossman_10"
+      fixedlength
+    }
+    event speak "12"
+    {
+      time 10.126667 12.146077
+      param "krak_tele.mossman_12"
+      fixedlength
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "audio"
+  {
+    event speak "k_lab.kl_suitfits01"
+    {
+      time 0.100000 1.462608
+      param "k_lab.kl_suitfits01"
+      fixedlength
+    }
+    event speak "k_lab.kl_suitfits02"
+    {
+      time 1.706667 4.268187
+      param "k_lab.kl_suitfits02"
+      fixedlength
+    }
+  }
+  channel "triggers"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\Kleiner.mdl"
+}
+
+mapname "maps\d1_trainstation_05.bsp"
+fps 60
+snap off

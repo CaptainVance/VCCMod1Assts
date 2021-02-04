@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Citizen_17_Evil/rarm"
+	"$envmapmask" "models/Citizen_17_Evil/rarmmask"
+	"$envmap" "models/cremator/cremsuitenvmap"
+	
+	
+	
+	//"$envmapsphere" 1
+
+	"$bumpmap"    "models/Citizen_17_Evil/rarm_normal"
+	
+		"$phongalbedotint" "1"	
+
+	"$phong" "0.8"
+	"$phongexponent" "10"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	
+	
+	"$rimlight"               "3"
+	"$rimlightexponent"       "4"
+	"$rimlightboost"          ".4"
+}

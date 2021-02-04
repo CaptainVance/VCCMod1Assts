@@ -1,0 +1,93 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "Animation"
+  {
+    event speak "Warming up nicely"
+    {
+      time 0.046667 2.111973
+      param "k_tele.kleiner_56"
+      fixedlength
+    }
+    event speak "Stage 2"
+    {
+      time 4.906667 8.302948
+      param "k_tele.kleiner_58"
+      fixedlength
+    }
+  }
+  channel "Voice"
+  {
+    event sequence "comp"
+    {
+      time 0.000000 9.593334
+      param "comppose01"
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at monitor"
+    {
+      time 0.613334 6.639999
+      param "!target1"
+    }
+    event lookat "Look at barney"
+    {
+      time 6.680000 8.260000
+      param "Barney"
+    }
+    event lookat "Look at monitor"
+    {
+      time 8.273335 9.540002
+      param "!target1"
+    }
+    event face "face monitor"
+    {
+      time 0.000000 0.540000
+      param "!target1"
+    }
+  }
+}
+
+actor "Barney"
+{
+  channel "Voice"
+  {
+    event speak "I didn't tell gordon"
+    {
+      time 2.160000 4.867846
+      param "k_tele.barney_57"
+      fixedlength
+    }
+    event speak "I can't bear to look"
+    {
+      time 8.446667 9.594059
+      param "k_tele.barney_59"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event face "Face gordon"
+    {
+      time 2.140000 2.640000
+      param "!player"
+    }
+    event face "Face thing tr2"
+    {
+      time 8.440001 8.920001
+      param "!target2"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

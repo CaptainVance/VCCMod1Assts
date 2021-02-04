@@ -1,0 +1,32 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "We can't continue"
+    {
+      time -0.000000 3.029116
+      param "k_tele.kleiner_42"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at player"
+    {
+      time -0.000000 3.020000
+      param "!player"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

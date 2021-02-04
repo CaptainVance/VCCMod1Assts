@@ -1,0 +1,126 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Excellent"
+    {
+      time 0.000000 1.606349
+      param "k_tele.kleiner_49"
+      fixedlength
+    }
+    event speak "Now, now."
+    {
+      time 4.360001 23.039547
+      param "k_tele.kleiner_51"
+      fixedlength
+    }
+    event speak "That's not necessary"
+    {
+      time 29.866669 38.081997
+      param "k_tele.kleiner_53"
+      fixedlength
+    }
+    event speak "Let's not dwell"
+    {
+      time 41.206669 47.264900
+      param "k_tele.kleiner_55"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event face "Face monitor"
+    {
+      time 7.367000 9.100000
+      param "!target1"
+    }
+    event lookat "Look at barney"
+    {
+      time 1.500001 6.593334
+      param "Barney"
+    }
+    event face "look at monitor"
+    {
+      time 0.000000 0.520000
+      param "!target1"
+    }
+    event lookat "Look at monitor"
+    {
+      time 9.140000 38.053329
+      param "!target1"
+    }
+  }
+  channel "Animation"
+  {
+    event sequence "keyboard"
+    {
+      time 7.407000 41.220013
+      param "comppose01"
+    }
+  }
+}
+
+actor "Barney"
+{
+  channel "Voice"
+  {
+    event speak "Yeah"
+    {
+      time 1.713333 4.237597
+      param "k_tele.barney_50"
+      fixedlength
+    }
+    event speak "416"
+    {
+      time 23.193333 29.848207
+      param "k_tele.barney_52"
+      fixedlength
+    }
+    event speak "That's what you said last time!"
+    {
+      time 38.166668 41.241680
+      param "k_tele.barney_54"
+      fixedlength
+    }
+  }
+  channel "Animation"
+  {
+    event face "Face kleiner"
+    {
+      time 1.753333 1.986666
+      param "Kleiner"
+    }
+    event lookat "Look at kleiner"
+    {
+      time 1.986667 8.893333
+      param "Kleiner"
+    }
+    event face "Face thing"
+    {
+      time 23.206669 23.706669
+      param "!target2"
+    }
+    event face "Face kleiner"
+    {
+      time 38.173336 38.673336
+      param "Kleiner"
+    }
+    event lookat "Look at kleiner"
+    {
+      time 38.700001 41.253334
+      param "Kleiner"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

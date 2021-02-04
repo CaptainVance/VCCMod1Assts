@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Citizen_17_Evil/leg"
+	"$envmapmask" "models/Citizen_17_Evil/legmask"
+	"$envmap" "models/cremator/cremsuitenvmap"
+	//"$envmapsphere" 1
+	
+
+	"$basetexture" "models/Citizen_17_Evil/hood_tfcpyr_att2"
+	
+	
+	"$bumpmap"    "models/Citizen_17_Evil/leg_normal"
+	
+		"$phongalbedotint" "1"	
+
+	"$phong" "0.8"
+	"$phongexponent" "10"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	
+	"$rimlight"               "3"
+	"$rimlightexponent"       "4"
+	"$rimlightboost"          ".4"
+}

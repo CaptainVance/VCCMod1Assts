@@ -1,0 +1,162 @@
+
+
+response AllygauntAttack sentence SLV_ATTACK
+response AllygauntMad sentence SLV_MAD delay 4 soundlevel "SNDLVL_NORM"
+response AllygauntShot sentence SLV_SHOT delay 4 soundlevel "SNDLVL_NORM"
+response AllygauntKill sentence SLV_KILL delay 4 soundlevel "SNDLVL_NORM"
+response AllygauntPOk sentence SLV_POK delay 2 soundlevel "SNDLVL_NORM"
+
+response "AllygauntAnswer" sentence "SLV_ANSWER" defaultdelay
+response "AllygauntStare" sentence "SLV_STARE" delay "5,7.5"
+response "AllygauntOk" sentence "SLV_OK" defaultdelay
+response "AllygauntWait" sentence "SLV_WAIT" defaultdelay
+response "AllygauntStop" sentence "SLV_STOP" delay "2,2.5"  soundlevel "SNDLVL_NORM"
+response "AllygauntScared" sentence "SLV_SCARED" delay "0,0.4"
+response "AllygauntCureA" sentence "SLV_CUREA"  defaultdelay speakonce
+response "AllygauntCureB" sentence "SLV_CUREB"  defaultdelay speakonce
+response "AllygauntCureC" sentence "SLV_CUREC"  defaultdelay speakonce
+response "AllygauntSmell" sentence "SLV_SMELL" defaultdelay respeakdelay "60"
+response "AllygauntWound" sentence "SLV_WOUND"  speakonce defaultdelay
+response "AllygauntMortal" sentence "SLV_MORTAL"  speakonce defaultdelay
+
+response "AllygauntQuestionPreDisaster" sentence "SLV_PQUEST" defaultdelay
+response "AllygauntQuestionPostDisaster" sentence "SLV_QUESTION" defaultdelay
+response "AllygauntIdlePostDisaster" sentence "SLV_IDLE" defaultdelay
+response "AllygauntHelloPostDisaster" sentence "SLV_HELLO" delay "3,3.5" speakonce
+
+criterion "ConceptAllygauntAttack" "Concept" "SLV_ATTACK" required
+criterion "ConceptAllygauntMad" "Concept" "SLV_MAD" required
+criterion "ConceptAllygauntShot" "Concept" "SLV_SHOT" required
+criterion "ConceptAllygauntKill" "Concept" "SLV_KILL" required
+criterion "ConceptAllygauntPOk" "Concept" "SLV_POK" required
+
+criterion "IsHL1Allygaunt" "classname" "monster_alien_slave_ally" required
+
+rule AllygauntAttack
+{
+	criteria IsHL1Allygaunt ConceptAllygauntAttack
+	response AllygauntAttack
+}
+rule AllygauntMad
+{
+	criteria IsHL1Allygaunt ConceptAllygauntMad
+	response AllygauntMad
+}
+rule AllygauntShot
+{
+	criteria IsHL1Allygaunt ConceptAllygauntShot
+	response AllygauntShot
+}
+rule AllygauntKill
+{
+	criteria IsHL1Allygaunt ConceptAllygauntKIll
+	response AllygauntKill
+}
+rule AllygauntPOk
+{
+	criteria IsHL1Allygaunt ConceptAllygauntPOk
+	response AllygauntPOk
+}
+
+rule AllygauntTlkAnswer
+{
+	criteria		IsHL1Allygaunt ConceptTalkAnswer
+	response		AllygauntAnswer
+}
+rule AllygauntTlkStare
+{
+	criteria		IsHL1Allygaunt ConceptTalkStare
+	response		AllygauntStare
+}
+
+rule AllygauntTlkStartFollow
+{
+	criteria		IsHL1Allygaunt ConceptTalkStartFollow
+	response		AllygauntOk
+}
+
+rule AllygauntTlkStopFollow
+{
+	criteria		IsHL1Allygaunt ConceptTalkStopFollow
+	response		AllygauntWait
+}
+
+rule AllygauntTlkStop
+{
+	criteria		IsHL1Allygaunt ConceptTalkStop
+	response		AllygauntStop
+}
+
+rule AllygauntTlkNoShoot
+{
+	criteria		IsHL1Allygaunt ConceptTalkNoShoot
+	response		AllygauntScared
+}
+
+rule AllygauntPlayerHurt1
+{
+	criteria		IsHL1Allygaunt ConceptTalkPlayerHurt1
+	response		AllygauntCureA
+}
+rule AllygauntPlayerHurt2
+{
+	criteria		IsHL1Allygaunt ConceptTalkPlayerHurt2
+	response		AllygauntCureB
+}
+rule AllygauntPlayerHurt3
+{
+	criteria		IsHL1Allygaunt ConceptTalkPlayerHurt3
+	response		AllygauntCureC
+}
+
+rule AllygauntTlkSmell
+{
+	criteria		IsHL1Allygaunt ConceptTalkSmell
+	response		AllygauntSmell
+}
+rule AllygauntTlkWound
+{
+	criteria		IsHL1Allygaunt ConceptTalkWound
+	response		AllygauntWound
+}
+rule AllygauntTlkMortal
+{
+	criteria		IsHL1Allygaunt ConceptTalkMortal
+	response		AllygauntMortal
+}
+
+
+// Pre disaster
+rule AllygauntTlkHelloPre
+{
+	criteria		IsHL1Allygaunt ConceptTalkHello IsPreDisaster
+	response		NullResponse
+}
+
+rule AllygauntTlkQuestionPre
+{
+	criteria		IsHL1Allygaunt ConceptTalkQuestion IsPreDisaster
+	response		AllygauntQuestionPreDisaster
+}
+rule AllygauntTlkIdlePre
+{
+	criteria		IsHL1Allygaunt ConceptTalkIdle IsPreDisaster
+	response		NullResponse
+}
+
+rule AllygauntTlkHelloPost
+{
+	criteria		IsHL1Allygaunt ConceptTalkHello IsPostDisaster
+	response		AllygauntHelloPostDisaster
+}
+
+rule AllygauntTlkQuestionPost
+{
+	criteria		IsHL1Allygaunt ConceptTalkQuestion IsPostDisaster
+	response		AllygauntQuestionPostDisaster
+}
+rule AllygauntTlkIdlePost
+{
+	criteria		IsHL1Allygaunt ConceptTalkIdle IsPostDisaster
+	response		AllygauntIdlePostDisaster
+}

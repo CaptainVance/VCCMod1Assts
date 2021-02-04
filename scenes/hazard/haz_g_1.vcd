@@ -1,0 +1,68 @@
+// Choreo version 1
+actor "Gman"
+{
+  channel "Voice"
+  {
+    event speak "vo\haz\haz_gm01b.wav"
+    {
+      time 0.000000 5.607619
+      param "vo\haz\haz_gm01b.wav"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event gesture "Gest"
+    {
+      time 0.013333 5.700000
+      param "HG_headback"
+      absolutetags playback_time
+      {
+        "apex" 0.187953
+        "extreme" 0.229588
+        "loop" 0.259327
+        "end" 0.378284
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.264706
+        "extreme" 0.367647
+        "loop" 0.441176
+        "end" 0.735294
+      }
+      sequenceduration 2.300000
+    }
+  }
+  channel "Lookat"
+  {
+    event lookat "Lookatme"
+    {
+      time -0.700000 -1.000000
+      param "!player"
+    }
+    event lookat "Look"
+    {
+      time 0.000000 -1.000000
+      param "!player"
+    }
+  }
+  channel "Goto"
+  {
+    event moveto "Goto"
+    {
+      time 5.500000 -1.000000
+      param "!target2"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

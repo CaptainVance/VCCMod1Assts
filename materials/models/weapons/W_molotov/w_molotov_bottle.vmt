@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\weapons\w_molotov\w_molotov_bottle"
+	"$bumpmap" 		"models\weapons\w_molotov\w_molotov_bottle_normal"
+	"$surfaceprop" "glass"
+	"$envmaptint" "[ .6 .8 .2]"
+	"$envmapsaturation" .1
+	"$envmapcontrast" 1
+	"$normalmapalphaenvmapmask" 1
+
+}

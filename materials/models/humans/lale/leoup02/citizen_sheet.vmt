@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/humans/lale/leoup02/citizen_sheet"
+	"$bumpmap" "models/humans/lale/leoup01/citizen_sheet_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.3 0.3 0.3]"
+	"$normalmapalphaenvmapmask" 1
+	"$model" 1
+}

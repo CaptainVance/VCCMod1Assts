@@ -1,0 +1,239 @@
+"BaHL1.pain"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+
+	"soundlevel"	"SNDLVL_90DB"
+
+	"rndwave"
+	{
+		"wave"	"barney/ba_pain1.wav"
+		"wave"	"barney/ba_pain2.wav"
+		"wave"	"barney/ba_pain3.wav
+	}
+}
+
+"BaHL1.death"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+
+	"soundlevel"	"SNDLVL_90DB"
+
+	"rndwave"
+	{
+		"wave"	"barney/ba_die1.wav"
+		"wave"	"barney/ba_die2.wav"
+		"wave"	"barney/ba_die3.wav
+	}
+}
+
+"Hassault.Alert"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	
+	"soundlevel"	"SNDLVL_90DB"
+	
+	"rndwave"
+	{
+		"wave"	"hassault/alert1.wav"
+		"wave"	"hassault/alert2.wav"
+		"wave"	"hassault/alert3.wav"
+		"wave"	"hassault/alert4.wav"
+		"wave"	"hassault/alert5.wav"		
+		"wave"	"hassault/alert6.wav"
+	}
+}
+
+"Hassault.Minigun"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_90DB"
+	"wave"			"hassault/hw_gun4.wav"
+}
+
+"Hassault.Pain"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	
+	"soundlevel"	"SNDLVL_90DB"
+	
+	"rndwave"
+	{
+		"wave"	"hassault/pain1.wav"
+		"wave"	"hassault/pain2.wav"
+		"wave"	"hassault/pain3.wav"
+		"wave"	"hassault/pain4.wav"
+		"wave"	"hassault/pain5.wav"		
+	}
+}
+
+"Hassault.Death"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	
+	"soundlevel"	"SNDLVL_90DB"
+	
+	"rndwave"
+	{
+		"wave"	"hassault/death1.wav"
+		"wave"	"hassault/death2.wav"
+		"wave"	"hassault/death3.wav"
+		"wave"	"hassault/death4.wav"		
+	}
+}
+
+
+
+"NPC_Cremator.FootstepLeft"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.800"
+	"pitch"			"95, 110"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"rndwave"
+	{
+		"wave"	"npc/cremator/foot1.wav"
+		"wave"	"npc/cremator/foot2.wav"
+		"wave"	"npc/cremator/foot3.wav"
+	}
+}
+
+"NPC_Cremator.FootstepRight"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.800"
+	"pitch"			"95, 110"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"rndwave"
+	{
+		"wave"	"npc/cremator/foot1.wav"
+		"wave"	"npc/cremator/foot2.wav"
+		"wave"	"npc/cremator/foot3.wav"
+	}
+}
+"NPC_Cremator.ClothAmb"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.300"
+	"pitch"			"95, 110"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"rndwave"
+	{
+		"wave"	"npc/cremator/amb1.wav"
+		"wave"	"npc/cremator/amb2.wav"
+		"wave"	"npc/cremator/amb3.wav"
+	}
+
+}
+
+"Cremator.Pain"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80db"
+	"rndwave"
+	{
+		"wave"		"npc/cremator/pain01.wav"
+		"wave"		"npc/cremator/pain02.wav"
+	}
+}
+
+"Cremator.Alert"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80db"
+	"rndwave"
+	{
+		"wave"		"npc/cremator/alert01.wav"
+		"wave"		"npc/cremator/alert02.wav"
+		"wave"		"npc/cremator/alert03.wav"
+		"wave"		"npc/cremator/alert04.wav"
+		"wave"		"npc/cremator/alert05.wav"
+	}
+}
+
+"Cremator.Evil"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80db"
+	"rndwave"
+	{
+		"wave"		"npc/cremator/killingpeople01.wav"
+		"wave"		"npc/cremator/killingpeople02.wav"
+		"wave"		"npc/cremator/killingpeople03.wav"
+		"wave"		"npc/cremator/killingpeople04.wav"
+		"wave"		"npc/cremator/killingpeople05.wav"
+	}
+}
+
+"CGuard.Evil"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80db"
+	"rndwave"
+	{
+		"wave"		"npc/cguard/blaaam.wav"
+		"wave"		"npc/cguard/cannonwithyournameonit.wav"
+		"wave"		"npc/cguard/comeon.wav"
+		"wave"		"npc/cguard/freetargetpractice.wav"
+		"wave"		"npc/cguard/iwinyoudie.wav"
+		"wave"		"npc/cguard/laugh1.wav"
+		"wave"		"npc/cguard/laugh2.wav"
+		"wave"		"npc/cguard/ohyeah.wav"
+		"wave"		"npc/cguard/takeit.wav"
+		"wave"		"npc/cguard/takemore.wav"
+		"wave"		"npc/cguard/whostheman.wav"
+		"wave"		"npc/cguard/yeeeah.wav"
+		"wave"		"npc/cguard/yeeeah2.wav"
+		"wave"		"npc/cguard/youhavenothing.wav"
+	}
+}
+
+"HGang.Pain"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80db"
+	"rndwave"
+	{
+		"wave"		"thresh/pain01.wav"
+		"wave"		"thresh/pain02.wav"
+	}
+}
+
+"HGang.Die"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80db"
+	"rndwave"
+	{
+		"wave"		"thresh/death01.wav"
+		"wave"		"thresh/death02.wav"
+		"wave"		"thresh/death03.wav"
+		"wave"		"thresh/death04.wav"
+	}
+}
+
+"Weapon_Immolator.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"wave"			"npc/cremator/plasma_shoot.wav"
+}
+	

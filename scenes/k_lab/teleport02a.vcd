@@ -1,0 +1,68 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "audio"
+  {
+    event speak "your turn barney"
+    {
+      time 5.900000 7.883243
+      param "k_lab.kl_barneysturn"
+      fixedlength
+    }
+    event speak "get in position"
+    {
+      time 9.226665 12.840543
+      param "k_lab.kl_getinposition"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+  channel "Trigger"
+  {
+  }
+}
+
+actor "Barney"
+{
+  channel "audio"
+  {
+    event speak "good job gordon"
+    {
+      time 0.226667 1.157506
+      param "k_lab.ba_sarcastic01"
+      fixedlength
+    }
+    event speak "throwing switch and all"
+    {
+      time 1.273333 2.449274
+      param "k_lab.ba_sarcastic02"
+      fixedlength
+    }
+    event speak "MIT education really pays "
+    {
+      time 2.606667 5.724898
+      param "k_lab.ba_sarcastic03"
+      fixedlength
+    }
+    event speak "gee thanks"
+    {
+      time 8.139999 8.970816
+      param "k_lab.ba_geethanks"
+      fixedlength
+    }
+    event speak "And not a moment too soon.  "
+    {
+      time 13.293335 14.660455
+      param "k_lab.ba_nottoosoon01"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+}
+
+fps 60
+snap off

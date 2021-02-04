@@ -1,0 +1,266 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\test_conscriptcover.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\test_conscriptcover.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11392 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 23 texinfos to 16
+Reduced 3 texdatas to 3 (69 bytes to 69)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\test_conscriptcover.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.prt
+  66 portalclusters
+ 187 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9 visible clusters (0.23%)
+Total clusters visible: 3979
+Average clusters visible: 60
+Building PAS...
+Average clusters audible: 66
+visdatasize:1732  compressed from 2112
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+251 faces
+73630 square feet [10602760.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+251 patches before subdivision
+7887 patches after subdivision
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1112068, max 388
+transfer lists:   8.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(85481, 82037, 62422)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(21609, 19777, 11047)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5546, 4872, 2063)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1441, 1214, 389)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(375, 303, 74)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(98, 76, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(26, 19, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 30/8192          360/98304    ( 0.4%) 
+brushsides             180/65536        1440/524288   ( 0.3%) 
+planes                 150/65536        3000/1310720  ( 0.2%) 
+vertexes               363/65536        4356/786432   ( 0.6%) 
+nodes                  123/65536        3936/2097152  ( 0.2%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  251/65536       14056/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                 125/65536        4000/2097152  ( 0.2%) 
+leaffaces              272/65536         544/131072   ( 0.4%) 
+leafbrushes             52/65536         104/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1638/512000       6552/2048000  ( 0.3%) 
+edges                  883/256000       3532/1024000  ( 0.3%) 
+LDR worldlights         16/8192         1408/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           519/65536        1038/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      194740/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1732/16777216 ( 0.0%) 
+entdata               [variable]       71270/393216   (18.1%) 
+LDR ambient table      125/65536         500/262144   ( 0.2%) 
+HDR ambient table      125/65536         500/262144   ( 0.2%) 
+LDR leaf ambient       770/65536       21560/1835008  ( 1.2%) 
+HDR leaf ambient       125/65536        3500/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105707/0        ( 0.0%) 
+physics               [variable]       11392/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 672
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\test_conscriptcover.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\test_conscriptcover.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11392 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 23 texinfos to 16
+Reduced 3 texdatas to 3 (69 bytes to 69)
+Writing C:\Program Files (x86)\Steam\SteamApps\sourcemods\HL2-Integration\test_conscriptcover.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.prt
+  66 portalclusters
+ 187 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9 visible clusters (0.23%)
+Total clusters visible: 3979
+Average clusters visible: 60
+Building PAS...
+Average clusters audible: 66
+visdatasize:1732  compressed from 2112
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[49 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+251 faces
+73630 square feet [10602760.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+251 patches before subdivision
+7887 patches after subdivision
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1112068, max 388
+transfer lists:   8.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(85481, 82037, 62422)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(21609, 19777, 11047)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5546, 4872, 2063)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1441, 1214, 389)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(375, 303, 74)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(98, 76, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(26, 19, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 30/8192          360/98304    ( 0.4%) 
+brushsides             180/65536        1440/524288   ( 0.3%) 
+planes                 150/65536        3000/1310720  ( 0.2%) 
+vertexes               363/65536        4356/786432   ( 0.6%) 
+nodes                  123/65536        3936/2097152  ( 0.2%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  251/65536       14056/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                 125/65536        4000/2097152  ( 0.2%) 
+leaffaces              272/65536         544/131072   ( 0.4%) 
+leafbrushes             52/65536         104/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1638/512000       6552/2048000  ( 0.3%) 
+edges                  883/256000       3532/1024000  ( 0.3%) 
+LDR worldlights         16/8192         1408/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           519/65536        1038/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      194740/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1732/16777216 ( 0.0%) 
+entdata               [variable]       72866/393216   (18.5%) 
+LDR ambient table      125/65536         500/262144   ( 0.2%) 
+HDR ambient table      125/65536         500/262144   ( 0.2%) 
+LDR leaf ambient       770/65536       21560/1835008  ( 1.2%) 
+HDR leaf ambient       125/65536        3500/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105707/0        ( 0.0%) 
+physics               [variable]       11392/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 672
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2-integration\test_conscriptcover.bsp
+1 second elapsed

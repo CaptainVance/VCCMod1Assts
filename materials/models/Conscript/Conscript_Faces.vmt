@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Conscript/Conscript_faces"
+	"$halflambert" 1
+"Proxies" 
+     	{ 
+               "EntityRandom" 
+                                { 
+                                "scale" "2.99" 
+                                "resultVar" "$frame" 
+                                 } 
+       }
+}

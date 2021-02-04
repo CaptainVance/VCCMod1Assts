@@ -1,0 +1,75 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Voice"
+  {
+    event speak "What the hell?"
+    {
+      time -0.000000 0.917914
+      param "k_tele.barney_66"
+      fixedlength
+    }
+    event speak "That damn thing!"
+    {
+      time 2.746667 5.225035
+      param "k_tele.barney_68"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event face "Face lamarr"
+    {
+      time 0.020000 0.520000
+      param "lamarr_2"
+    }
+    event lookat "Look at lamarr"
+    {
+      time 0.553333 6.100000
+      param "lamarr_new"
+    }
+  }
+}
+
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Lamarr! no"
+    {
+      time 1.033334 2.731475
+      param "k_tele.kleiner_67"
+      fixedlength
+    }
+    event speak "Nooo!"
+    {
+      time 4.906668 6.099956
+      param "k_tele.kleiner_69"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+    event face "Face lamarr"
+    {
+      time 0.046667 0.546667
+      param "lamarr_2"
+    }
+    event lookat "Look at lamarr"
+    {
+      time 0.600000 6.120000
+      param "lamarr_new"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

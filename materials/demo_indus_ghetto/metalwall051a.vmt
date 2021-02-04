@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: SphericalEnvMapBlendMaskedBaseTimesLightmap
+	"$basealphaenvmapmask" 1
+	"$basetexture" "demo_indus_ghetto/metalwall051a"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"%keywords" "c17industrial"
+}

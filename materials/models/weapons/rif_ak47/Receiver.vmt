@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\rif_ak47\Reciever"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models\weapons\rif_ak47\Reciever_normal"
+	"$envmapmask" "models\weapons\rif_ak47\reciever_ref"
+	"$normalmapalphaenvmapmask" "1"
+}

@@ -1,0 +1,33 @@
+// Choreo version 1
+actor "alyx"
+{
+  channel "vo"
+  {
+    event speak "down here"
+    {
+      time 1.260000 2.636871
+      ramp 1.00 1.00 1.00
+      param "vo\alyx_strider\alyx_05.wav"
+    }
+  }
+  channel "body"
+  {
+    event sequence "down here"
+    {
+      time 0.000000 -1.000000
+      ramp 1.00 1.00 1.00
+      param "E3sewershout"
+    }
+  }
+  channel "lookat"
+  {
+    event lookat "lookat"
+    {
+      time 0.000000 6.193333
+      ramp 0.69 1.00 1.00
+      param "Player"
+    }
+  }
+}
+
+mapname "maps\e3_strider.bsp"

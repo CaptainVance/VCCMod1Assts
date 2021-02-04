@@ -1,0 +1,282 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "audio"
+  {
+    event speak "fits like glove"
+    {
+      time 0.133333 4.479410
+      param "k_lab.kl_fitglove01"
+      fixedlength
+    }
+    event speak "glove parts"
+    {
+      time 4.580000 6.318073
+      param "k_lab.kl_fitglove02"
+      fixedlength
+    }
+    event speak "oh dear"
+    {
+      time 20.666664 21.214579
+      param "k_lab.kl_ohdear"
+      fixedlength
+    }
+    event speak "good idea"
+    {
+      time 25.613331 27.781336
+      param "k_lab.kl_charger01"
+      fixedlength
+    }
+    event speak "combine energy outlets"
+    {
+      time 27.886663 34.437569
+      param "k_lab.kl_charger02"
+      fixedlength
+    }
+    event speak "no offense but"
+    {
+      time 37.706665 41.933853
+      param "k_lab.kl_assistance"
+      fixedlength
+    }
+    event speak "position yourself"
+    {
+      time 46.293331 51.446663
+      param "k_lab.kl_waitmyword"
+      fixedlength
+    }
+    event speak "kl_modifications01"
+    {
+      time 6.720000 12.559525
+      param "k_lab.kl_modifications01"
+      fixedlength
+    }
+    event speak "kl_modifications02"
+    {
+      time 12.826667 20.143538
+      param "k_lab.kl_modifications02"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+    event lookat "look at Barney"
+    {
+      time 21.386667 27.706667
+      param "Barney"
+    }
+    event lookat "look at player"
+    {
+      time 0.073333 6.333335
+      param "!player"
+    }
+    event lookat "look at player"
+    {
+      time 6.453334 20.013336
+      param "!player"
+    }
+    event lookat "look at player"
+    {
+      time 27.733334 34.526669
+      param "!player"
+    }
+    event lookat "look at Alyx"
+    {
+      time 34.613335 36.366669
+      param "alyx"
+    }
+    event lookat "look at Barney"
+    {
+      time 36.393333 40.166664
+      param "Barney"
+    }
+    event lookat "look at player"
+    {
+      time 40.206669 42.513336
+      param "!player"
+    }
+    event lookat "look at Barney"
+    {
+      time 42.566669 46.253334
+      param "Barney"
+    }
+    event lookat "look at player"
+    {
+      time 46.313335 51.399998
+      param "!player"
+    }
+  }
+  channel "trigger"
+  {
+    event firetrigger "scanner sound"
+    {
+      time 20.020000 -1.000000
+      param "1"
+    }
+    event firetrigger "open door"
+    {
+      time 38.639999 -1.000000
+      param "2"
+    }
+  }
+}
+
+actor "Alyx"
+{
+  channel "audio"
+  {
+    event speak "show on the road"
+    {
+      time 34.539997 36.116776
+      param "k_lab.al_showonroad"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+    event lookat "look at player"
+    {
+      time 0.126667 8.920001
+      param "!player"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 9.026667 11.786668
+      param "Kleiner"
+    }
+    event lookat "look at player"
+    {
+      time 11.846666 19.486668
+      param "!player"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 19.513334 21.700001
+      param "Kleiner"
+    }
+    event lookat "look at Barney"
+    {
+      time 21.766668 24.533337
+      param "Barney"
+    }
+    event lookat "look at player"
+    {
+      time 27.893337 31.386671
+      param "!player"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 24.593334 27.806667
+      param "Kleiner"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 31.440001 36.146667
+      param "Kleiner"
+    }
+  }
+  channel "move to"
+  {
+    event moveto "move to teleport"
+    {
+      time 37.886665 -1.000000
+      param "mark_alyx_teleport"
+    }
+  }
+}
+
+actor "Barney"
+{
+  channel "audio"
+  {
+    event speak "don't have time"
+    {
+      time 21.639996 23.286095
+      param "k_lab.ba_notime"
+      fixedlength
+    }
+    event speak "suit juiced up"
+    {
+      time 23.419996 25.352150
+      param "k_lab.ba_juicedup"
+      fixedlength
+    }
+    event speak "need my help"
+    {
+      time 36.380001 37.611904
+      param "k_lab.ba_needmyhelp"
+      fixedlength
+    }
+    event speak "maybe a good thing"
+    {
+      time 42.299999 45.992062
+      param "k_lab.ba_consideringlasttime"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+    event lookat "look at player"
+    {
+      time 0.100000 6.993332
+      param "!player"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 7.040000 9.693335
+      param "Kleiner"
+    }
+    event lookat "look at player"
+    {
+      time 9.713332 20.646667
+      param "!player"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 20.740002 23.386667
+      param "Kleiner"
+    }
+    event lookat "look at player"
+    {
+      time 23.440001 29.460003
+      param "!player"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 29.473335 34.406666
+      param "Kleiner"
+    }
+    event lookat "look at Alyx"
+    {
+      time 34.446663 36.199997
+      param "alyx"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 36.226665 40.266663
+      param "Kleiner"
+    }
+    event lookat "look at player"
+    {
+      time 40.366665 43.579998
+      param "!player"
+    }
+    event lookat "look at Kleiner"
+    {
+      time 43.593334 47.339996
+      param "Kleiner"
+    }
+  }
+  channel "move to"
+  {
+    event moveto "move barney to teleport"
+    {
+      time 47.346668 -1.000000
+      param "mark_barney_teleport"
+    }
+  }
+}
+
+mapname "maps\d1_trainstation_05.bsp"
+fps 60
+snap off

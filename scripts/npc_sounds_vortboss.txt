@@ -1,0 +1,39 @@
+"VortBoss.Pain"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.95"
+	"soundlevel"	"SNDLVL_NORM"
+	"rndwave"
+	{
+		"wave"		"aslaveboss/pain01.wav"
+		"wave"		"aslaveboss/pain02.wav"
+		"wave"		"aslaveboss/pain03.wav"
+	}
+}
+
+"VortBoss.Alert"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.95"
+	"soundlevel"	"SNDLVL_NORM"
+	"rndwave"
+	{
+		"wave"		"aslaveboss/alert01.wav"
+		"wave"		"aslaveboss/alert02.wav"
+		"wave"		"aslaveboss/alert03.wav"
+		"wave"		"aslaveboss/alert04.wav"
+		"wave"		"aslaveboss/alert05.wav"
+	}
+}
+
+
+"Vortigaunt.Cower"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.95"
+	"soundlevel"	"SNDLVL_NORM"
+	"rndwave"
+	{
+		"wave"		"aslave/cower.wav"
+	}
+}

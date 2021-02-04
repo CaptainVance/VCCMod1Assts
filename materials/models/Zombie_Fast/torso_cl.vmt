@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Zombie_Fast/torso_cl"
+	//"$bumpmap" "models/Zombie_fast/torso_cl_normal"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" .1
+	//"$envmaptint" "[0.5 0.5 0.5]"
+}

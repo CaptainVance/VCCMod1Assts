@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Cremator\SAWCHAINTEX"
+	"$translucent" 1
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"textureScrollVar"  "$basetexturetransform"
+			"textureScrollAngle" 180
+			"texturescrollRate" 5
+		}
+	}
+}

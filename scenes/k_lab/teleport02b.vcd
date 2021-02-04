@@ -1,0 +1,65 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "audio"
+  {
+    event speak "We're ready to project you, Gordon"
+    {
+      time 9.920002 12.939004
+      param "k_lab.kl_projectyou"
+      fixedlength
+    }
+    event speak "excellent"
+    {
+      time 0.246667 1.090817
+      param "k_lab.kl_excellent"
+      fixedlength
+    }
+    event speak "initializing"
+    {
+      time 1.273333 5.393718
+      param "k_lab.kl_initializing02"
+      fixedlength
+    }
+    event speak "be so kind"
+    {
+      time 6.313335 8.127644
+      param "k_lab.kl_besokind"
+      fixedlength
+    }
+    event speak "bon voyage"
+    {
+      time 13.173336 16.862656
+      param "k_lab.kl_bonvoyage"
+      fixedlength
+    }
+    event speak "final sequence 02"
+    {
+      time 17.833332 18.705486
+      param "k_lab.kl_finalsequence02"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+}
+
+actor "Barney"
+{
+  channel "audio"
+  {
+    event speak "goodluck"
+    {
+      time 8.446669 9.554423
+      param "k_lab.ba_goodluck02"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+}
+
+fps 60
+snap off

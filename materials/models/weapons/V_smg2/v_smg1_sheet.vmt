@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Weapons/v_smg2/v_smg1_sheet"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmapsaturation" .5
+	"$model" 1
+}

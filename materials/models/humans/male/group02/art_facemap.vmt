@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/Male/Group02/art_facemap"
+	"$halflambert" 1
+"Proxies" 
+     	{ 
+               "EntityRandom" 
+                                { 
+                                "scale" "3.99" 
+                                "resultVar" "$frame" 
+                                 } 
+       }
+}

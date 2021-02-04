@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/combine_elite/eyeball_r"
+	"$iris" "models/combine_elite/pupil_r"
+}

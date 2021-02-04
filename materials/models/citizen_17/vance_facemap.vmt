@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\Citizen_17/vance_facemap"
+	//"$envmapsphere" 1
+	"$halflambert" 1
+}

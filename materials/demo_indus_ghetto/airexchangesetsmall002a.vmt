@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "demo_indus_ghetto/airexchangesetsmall002a"
+	"$selfillum" 1
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,48 @@
+// Choreo version 1
+actor "Breen"
+{
+  channel "Voice"
+  {
+    event speak "1"
+    {
+      time 0.000000 7.245261
+      param "krak_tele.breen_11"
+      fixedlength
+    }
+    event speak "2"
+    {
+      time 7.380000 8.146599
+      param "krak_tele.breen_12"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event face "Face player"
+    {
+      time 7.393334 7.893334
+      param "!player"
+    }
+    event face "face target1"
+    {
+      time 0.040000 0.040000
+      param "!target1"
+    }
+    event face "face target 1"
+    {
+      time 0.000000 1.680000
+      param "!target1"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

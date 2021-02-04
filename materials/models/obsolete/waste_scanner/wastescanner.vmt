@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/wasteland_scanner/wastescanner"
+	"$envmap" "models/wasteland_scanner/mat8env"
+	"$basealphaenvmapmask" 1
+	"$envmapsphere" 1
+}

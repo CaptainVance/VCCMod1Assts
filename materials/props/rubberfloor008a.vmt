@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Props/rubberfloor008a"
+	"$surfaceprop" "rubber"
+}

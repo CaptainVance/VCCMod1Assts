@@ -1,0 +1,45 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Voice"
+  {
+    event speak "Okay doc"
+    {
+      time 0.000000 5.415691
+      param "k_tele.barney_33"
+      fixedlength
+    }
+  }
+}
+
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Crystal insertion device"
+    {
+      time 6.220000 19.300272
+      param "k_tele.kleiner_34"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event face "face monitor"
+    {
+      time 19.400002 19.900002
+      param "!target1"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+  "SceneRampTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

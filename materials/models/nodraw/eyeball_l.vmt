@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$no_draw" 1//"models/Police/eyeball_l"
+	"$iris" "models/Police/pupil_l"
+}

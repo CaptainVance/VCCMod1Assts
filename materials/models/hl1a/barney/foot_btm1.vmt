@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hl1a/barney/Foot_btm1"
+	"$surfaceprop" "ArmorFlesh"
+}

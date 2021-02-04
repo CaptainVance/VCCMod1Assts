@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$basetexture" "Vehicle/metalcar001a"
+	"$surfaceprop" "glass"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: ModelTextureWithSelfIllumWithMaskedEnvMap
+	"$envmapsphere" 1
+	"$selfillum" 1
+	"$basetexture" "models/obsolete/TBot1/aBicept"
+	"$envmapmask" "models/obsolete/TBot1/aBicept_Mask"
+	"$envmap" "models/obsolete/TBot1/TBot_envmap"
+	"$multipass" 1
+}

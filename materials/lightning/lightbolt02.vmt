@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "lightning/lightbolt02"
+	"$translucent" "1"
+	"$nofog" "1"
+	"$surfaceprop" "no_decal"
+}

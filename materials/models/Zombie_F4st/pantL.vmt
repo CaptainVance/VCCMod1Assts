@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Zombie_F4st/pantL"
+	"$bumpmap" "Models/Zombie_F4st/pantL_normal"
+}

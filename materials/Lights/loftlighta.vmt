@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "lights/loftlighta"
+	"$translucent" 1
+}

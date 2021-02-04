@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Lazarus/d_coat"
+	"$bumpmap" "models/Lazarus/d_coat_normal"
+
+	
+	"$phongalbedotint" "1"	
+
+	"$phong" "0.5"
+	"$phongexponent" "10"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.3 1 8]"
+
+
+}

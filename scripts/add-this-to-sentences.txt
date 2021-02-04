@@ -1,0 +1,9 @@
+CREM_IDLE0 npc/cremator_orig/amb_loop {Len 1.00}
+CREM_IDLE1 npc/cremator_orig/amb_mad {Len 1.00}
+
+CREM_DISTRESS0 npc/cremator_orig/callforhelp {Len 1.00}
+
+CREM_ALERT0 npc/cremator_orig/alert_object {Len 1.00}
+CREM_ALERT1 npc/cremator_orig/alert_player {Len 1.00}
+
+CREM_KILL0 npc/cremator_orig/killedenemy {Len 1.00}

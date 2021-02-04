@@ -1,0 +1,3 @@
+MCM2/Operation Hongo Build whatever number
+-added monster_cremator (alien slave AI), monster_alpha_barney_blue, monster_alpha_barney_red, monster_alpha_barney_green, and monster_alpha_barney_yellow
+-added really shitty immolator straight from the leak

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/obsolete/TBot1/aShin2Left"
+	"$envmapmask" "models/obsolete/TBot1/aShin2Left_Mask"
+	"$envmap" "models/obsolete/TBot1/TBot_envmap"
+	"$envmapsphere" 1
+	"$multipass" 1
+}

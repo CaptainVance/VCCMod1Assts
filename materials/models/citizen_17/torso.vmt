@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Citizen_17/torso"
+	//"$envmapmask" "models/Citizen_17/torsomask"
+	//"$envmap" "models/cremator/cremsuitenvmap"
+	//"$envmapsphere" 1
+
+
+	//$envmapcontrast    1
+	//"$model" 1
+
+	"$bumpmap" "models/Citizen_17/torso_normal"
+}

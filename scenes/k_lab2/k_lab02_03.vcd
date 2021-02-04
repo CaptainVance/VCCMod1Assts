@@ -1,0 +1,35 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "audio"
+  {
+  }
+  channel "look at"
+  {
+  }
+}
+
+actor "Alyx"
+{
+  channel "audio"
+  {
+    event speak "oh no..."
+    {
+      time 0.173328 0.891605
+      param "k_lab2.al_poordoc01"
+      fixedlength
+    }
+    event speak "poor doc"
+    {
+      time 1.766666 3.128458
+      param "k_lab2.al_poordoc02"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+}
+
+fps 60
+snap off

@@ -1,0 +1,3 @@
+High Pass Filter 5 times
+Low Pass Filter 4 times
+Amplify as needed

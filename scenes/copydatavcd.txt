@@ -1,0 +1,14 @@
+// Choreo version 1
+actor "!target1"
+{
+  channel "Lookat"
+  {
+    event lookat "look at player"
+    {
+      time 0.013333 12.013334
+      param "!player"
+    }
+  }
+  faceposermodel "U:\HL2\hl2\models\gman.mdl"
+}
+

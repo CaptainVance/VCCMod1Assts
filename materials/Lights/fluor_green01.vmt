@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "lights/fluor_green01"
+	"$translucent" 1
+}

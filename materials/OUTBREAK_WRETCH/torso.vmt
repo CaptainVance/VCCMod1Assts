@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "OUTBREAK_WRETCH/torso"
+	$alphatest 1
+}

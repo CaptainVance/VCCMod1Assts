@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/Shield_Scanner/Scanner_ShieldBars"
+	"$envmap" "models/Shield_Scanner/Scanner_ShieldBars_Mask"
+	"$additive" 1
+	"Proxies"
+	{
+		"Shield"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" -1.30
+			"texturescrollangle" 20.00
+			"model" 1
+		}
+	}
+}

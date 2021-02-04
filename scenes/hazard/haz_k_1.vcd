@@ -1,0 +1,45 @@
+// Choreo version 1
+actor "Doc"
+{
+  channel "Voice"
+  {
+    event speak "vo\haz\haz_oc02.wav"
+    {
+      time 0.160000 7.227936
+      param "vo\haz\haz_oc02.wav"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event gesture "ok"
+    {
+      time 0.006666 7.246666
+      param "kposture06"
+      absolutetags playback_time
+      {
+        "apex" 0.000000
+        "loop" 0.000921
+        "end" 0.999079
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.356164
+        "loop" 0.493151
+        "end" 0.698630
+      }
+      sequenceduration 2.466667
+    }
+  }
+}
+
+scalesettings
+{
+  "ExpressionTool" "100"
+  "RampTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+  "CChoreoView" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

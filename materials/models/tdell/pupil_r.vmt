@@ -1,0 +1,5 @@
+"Eyeball"
+{
+	"$basetexture" "models/tdell/pupil_r"
+	"$selfillum" "1"
+}

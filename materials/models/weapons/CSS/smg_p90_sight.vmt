@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\css\smg_p90_sight"
+	"$selfillum" "1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\css\smg_p90_sight_ref"
+
+}

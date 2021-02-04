@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/v_sawedoff/butt"
+	"$bumpmap" "models\weapons\v_sawedoff\butt_n"
+	"$phong" "1"
+	"$phongexponent" "55"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.05 0.5 1]"					
+}

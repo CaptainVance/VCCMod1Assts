@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/twb/twb_gloves"
+	// "$bumpmap" "models\CPSWAT/gloves_cl_normal"
+}

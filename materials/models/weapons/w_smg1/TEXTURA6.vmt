@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/v_smg3/TEXTURA6"
+        	"$bumpmap" "models/Weapons/v_smg3/TEXTURA6_normal"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost"	"12"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	// kubiiik_svK was here
+	// Valve ... please ... learn how to UV your WIP models
+}

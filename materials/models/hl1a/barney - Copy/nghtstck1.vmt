@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hl1a/barney/nghtstck1"
+	"$surfaceprop" "ArmorFlesh"
+}

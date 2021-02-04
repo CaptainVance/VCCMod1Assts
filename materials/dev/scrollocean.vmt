@@ -1,0 +1,45 @@
+//"UnlitGeneric"
+"Water"
+{
+	"$scale" "[.1 .1]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "1.0"
+	"$reflecttint" "[.25 .25 .25]"
+
+	"$basetexture" "dev/water_dudv"
+	"$bumpmap" "dev/water_dudv"
+	"$normalmap" "dev/water_normal"
+
+	"%compilewater" 1
+	"$surfaceprop" "water"
+	"$bottommaterial" "dev/oceanbeneath"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{22 20 10}"
+	"$fogstart" 0.00
+	"$fogend" 0.00
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" 0.3
+			"texturescrollangle" 0.00
+		}
+		"WaterLOD"
+		{
+			// fixme!  This has to be here, or material loading barfs.
+			"dummy" 0
+		}
+	}	
+}

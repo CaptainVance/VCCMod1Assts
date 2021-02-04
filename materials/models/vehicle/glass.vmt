@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "Models\vehicle\glass.vtf"
+	"$translucent"	"1"
+
+}

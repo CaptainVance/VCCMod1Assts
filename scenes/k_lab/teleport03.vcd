@@ -1,0 +1,89 @@
+// Choreo version 1
+actor "Eli"
+{
+  channel "audio"
+  {
+    event speak "notquite01"
+    {
+      time 1.493333 2.010839
+      param "k_lab.eli_notquite01"
+      fixedlength
+    }
+    event speak "stayput"
+    {
+      time 9.853333 12.171791
+      param "k_lab.eli_stayput"
+      fixedlength
+    }
+    event speak "not quite02"
+    {
+      time 2.446667 3.417393
+      param "k_lab.eli_notquite02"
+      fixedlength
+    }
+    event speak "notquite03"
+    {
+      time 4.380000 6.092676
+      param "k_lab.eli_notquite03"
+      fixedlength
+    }
+    event speak "don't understand01"
+    {
+      time 14.520001 15.544673
+      param "k_lab.eli_dontunder01"
+      fixedlength
+    }
+    event speak "don't understand02"
+    {
+      time 15.586667 16.999411
+      param "k_lab.eli_dontunder02"
+      fixedlength
+    }
+  }
+  channel "triggers"
+  {
+    event firetrigger "teleport FX"
+    {
+      time 16.973335 -1.000000
+      param "1"
+    }
+  }
+  faceposermodel "U:\HL2\hl2\models\Eli.mdl"
+}
+
+actor "Alyx"
+{
+  channel "audio"
+  {
+    event speak "he's coming thru"
+    {
+      time 0.046668 1.312178
+      param "k_lab.al_comingthru"
+      fixedlength
+    }
+  }
+  faceposermodel "U:\HL2\hl2\models\alyx.mdl"
+}
+
+actor "Mossman"
+{
+  channel "audio"
+  {
+    event speak "interference"
+    {
+      time 6.680000 9.462449
+      param "k_lab.mo_interfer"
+      fixedlength
+    }
+    event speak "drawing away"
+    {
+      time 12.420001 13.888504
+      param "k_lab.mo_drawing"
+      fixedlength
+    }
+  }
+  faceposermodel "U:\HL2\hl2\models\mossman.mdl"
+}
+
+fps 60
+snap off

@@ -1,0 +1,75 @@
+// Combine Sniper Rifle
+    WeaponData
+    {
+            // Weapon data is loaded by both the Game and Client DLLs.
+            "printname"     		    "Sniper Rifle"
+            "viewmodel"                     "models/v_sniper.mdl"
+            "playermodel"          	    "models/weapons/w_sniper.mdl"
+            "anim_prefix"                   "ar2"
+            "bucket"                                "5"
+            "bucket_position"               "4"
+			bucket_nolimit					3
+			bucket_position_nolimit			3
+            "clip_size"                             "1"
+
+            "primary_ammo"                  "SniperRound"
+            "secondary_ammo"                "None"
+     
+ 	   default_clip            30
+     
+            "weight"                                "2"
+            "item_flags"                    "0"
+     
+	hideammostock 			0
+	hideammosecondary 		1
+
+            // Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+            SoundData
+            {
+                    "special1"                      "Weapon_SniperRifle.Special1"
+                    "special2"                      "Weapon_SniperRifle.Special2"
+                    "reload"                        "Weapon_SniperRifle.Reload"
+                    "reload_npc"            "Weapon_SniperRifle.Reload"
+                    "single_shot"           "Weapon_SniperRifle.Single"
+                    "single_shot_npc"       "Weapon_SniperRifle.Single"
+            }
+     
+            // Weapon Sprite data is loaded by the Client DLL.
+            TextureData
+            {
+                    "weapon"
+                    {
+                                    "file"          "sprites/w_icons2b"
+                                    "x"                     "0" //128
+                                    "y"                     "193" //0
+                                    "width"         "128"
+                                    "height"        "64"
+                    }
+                    "weapon_s"
+                    {
+                                    "file"          "sprites/w_icons2b"
+                                    "x"                     "0"
+                                    "y"                     "193"
+                                    "width"         "128"
+                                    "height"        "64"
+                    }
+                    "ammo"
+                    {
+                                    "file"          "sprites/a_icons1"
+                                    "x"                     "55"
+                                    "y"                     "30"
+                                    "width"         "73"
+                                    "height"        "15"
+                    }
+                    "crosshair"
+                    {
+                                    "font"          "Crosshairs"
+                                    "character"     "Q"
+                    }
+                    "autoaim"
+                    {
+                                    "font"          "Crosshairs"
+                                    "character"     "Q"
+                    }
+            }
+    }

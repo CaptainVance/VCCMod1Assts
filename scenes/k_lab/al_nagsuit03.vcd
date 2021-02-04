@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "Alyx"
+{
+  channel "audio"
+  {
+    event speak "k_lab.al_docsays01"
+    {
+      time 0.080000 2.719229
+      param "k_lab.al_docsays01"
+      fixedlength
+    }
+    event speak "k_lab.al_docsays02"
+    {
+      time 2.906667 3.538640
+      param "k_lab.al_docsays02"
+      fixedlength
+    }
+  }
+  channel "triggers"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\alyx.mdl"
+}
+
+mapname "maps\d1_trainstation_05.bsp"
+fps 60
+snap off

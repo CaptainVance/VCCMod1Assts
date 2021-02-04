@@ -1,0 +1,6 @@
+"Teeth"
+{
+	"$basetexture" "models/Humans/Male/tongue"
+	"$model" 1
+	"$clientshader" "MouthShader"
+}

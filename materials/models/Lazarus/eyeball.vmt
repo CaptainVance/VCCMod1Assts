@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Lazarus/eyeball"
+
+	"$halflambert" 1
+
+}

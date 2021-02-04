@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "lights/lwoffice"
+	"$translucent" 1
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hl1a/barney/Card1"
+	"$surfaceprop" "ArmorFlesh"
+	"$nodecal" 1
+}

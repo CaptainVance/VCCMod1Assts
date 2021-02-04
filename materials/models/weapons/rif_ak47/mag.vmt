@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\rif_ak47\mag"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models\weapons\rif_ak47\mag_normal"
+	"$envmapmask" "models\weapons\rif_ak47\mag_ref"
+	"$normalmapalphaenvmapmask" "1"
+}

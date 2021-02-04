@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hl1a/barney/Hd_Lft1"
+	"$surfaceprop" "Flesh"
+}

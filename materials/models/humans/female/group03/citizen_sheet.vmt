@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/female/Group03/citizen_sheet"
+	"Proxies" 
+     	{ 
+               "EntityRandom" 
+                                { 
+                                "scale" "9.99" 
+                                "resultVar" "$frame" 
+                                 } 
+	}
+}

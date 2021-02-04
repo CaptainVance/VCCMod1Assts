@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Citizen_17/c17torso"
+	"$bumpmap"    "models/Citizen_17/c17torso_normal"
+}

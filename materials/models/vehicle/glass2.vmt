@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vehicle/glass2"
+	"$surfaceprop" "glass"
+	"$envmapmask" "models/vehicle/glass2_mask"
+	"$envmap" "env_cubemap"
+
+}

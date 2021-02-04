@@ -1,0 +1,5 @@
+"sobel"
+{
+    "$fbtexture" "_rt_FullFrameFB"
+    "%noToolTexture" 1
+}

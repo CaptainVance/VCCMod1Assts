@@ -1,0 +1,162 @@
+
+
+response AlphaBlarneyAttack sentence ABA_ATTACK
+response AlphaBlarneyMad sentence ABA_MAD delay 4 soundlevel "SNDLVL_NORM"
+response AlphaBlarneyShot sentence ABA_SHOT delay 4 soundlevel "SNDLVL_NORM"
+response AlphaBlarneyKill sentence ABA_KILL delay 4 soundlevel "SNDLVL_NORM"
+response AlphaBlarneyPOk sentence ABA_POK delay 2 soundlevel "SNDLVL_NORM"
+
+response "AlphaBlarneyAnswer" sentence "ABA_ANSWER" defaultdelay
+response "AlphaBlarneyStare" sentence "ABA_STARE" delay "5,7.5"
+response "AlphaBlarneyOk" sentence "ABA_OK" defaultdelay
+response "AlphaBlarneyWait" sentence "ABA_WAIT" defaultdelay
+response "AlphaBlarneyStop" sentence "ABA_STOP" delay "2,2.5"  soundlevel "SNDLVL_NORM"
+response "AlphaBlarneyScared" sentence "ABA_SCARED" delay "0,0.4"
+response "AlphaBlarneyCureA" sentence "ABA_CUREA"  defaultdelay speakonce
+response "AlphaBlarneyCureB" sentence "ABA_CUREB"  defaultdelay speakonce
+response "AlphaBlarneyCureC" sentence "ABA_CUREC"  defaultdelay speakonce
+response "AlphaBlarneySmell" sentence "ABA_SMELL" defaultdelay respeakdelay "60"
+response "AlphaBlarneyWound" sentence "ABA_WOUND"  speakonce defaultdelay
+response "AlphaBlarneyMortal" sentence "ABA_MORTAL"  speakonce defaultdelay
+
+response "AlphaBlarneyQuestionPreDisaster" sentence "ABA_PQUEST" defaultdelay
+response "AlphaBlarneyQuestionPostDisaster" sentence "ABA_QUESTION" defaultdelay
+response "AlphaBlarneyIdlePostDisaster" sentence "ABA_IDLE" defaultdelay
+response "AlphaBlarneyHelloPostDisaster" sentence "ABA_HELLO" delay "3,3.5" speakonce
+
+criterion "ConceptAlphaBlarneyAttack" "Concept" "ABA_ATTACK" required
+criterion "ConceptAlphaBlarneyMad" "Concept" "ABA_MAD" required
+criterion "ConceptAlphaBlarneyShot" "Concept" "ABA_SHOT" required
+criterion "ConceptAlphaBlarneyKill" "Concept" "ABA_KILL" required
+criterion "ConceptAlphaBlarneyPOk" "Concept" "ABA_POK" required
+
+criterion "IsHL1AlphaBlarney" "classname" "monster_alphabarney_blue" required
+
+rule AlphaBlarneyAttack
+{
+	criteria IsHL1AlphaBlarney ConceptAlphaBlarneyAttack
+	response AlphaBlarneyAttack
+}
+rule AlphaBlarneyMad
+{
+	criteria IsHL1AlphaBlarney ConceptAlphaBlarneyMad
+	response AlphaBlarneyMad
+}
+rule AlphaBlarneyShot
+{
+	criteria IsHL1AlphaBlarney ConceptAlphaBlarneyShot
+	response AlphaBlarneyShot
+}
+rule AlphaBlarneyKill
+{
+	criteria IsHL1AlphaBlarney ConceptAlphaBlarneyKIll
+	response AlphaBlarneyKill
+}
+rule AlphaBlarneyPOk
+{
+	criteria IsHL1AlphaBlarney ConceptAlphaBlarneyPOk
+	response AlphaBlarneyPOk
+}
+
+rule AlphaBlarneyTlkAnswer
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkAnswer
+	response		AlphaBlarneyAnswer
+}
+rule AlphaBlarneyTlkStare
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkStare
+	response		AlphaBlarneyStare
+}
+
+rule AlphaBlarneyTlkStartFollow
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkStartFollow
+	response		AlphaBlarneyOk
+}
+
+rule AlphaBlarneyTlkStopFollow
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkStopFollow
+	response		AlphaBlarneyWait
+}
+
+rule AlphaBlarneyTlkStop
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkStop
+	response		AlphaBlarneyStop
+}
+
+rule AlphaBlarneyTlkNoShoot
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkNoShoot
+	response		AlphaBlarneyScared
+}
+
+rule AlphaBlarneyPlayerHurt1
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkPlayerHurt1
+	response		AlphaBlarneyCureA
+}
+rule AlphaBlarneyPlayerHurt2
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkPlayerHurt2
+	response		AlphaBlarneyCureB
+}
+rule AlphaBlarneyPlayerHurt3
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkPlayerHurt3
+	response		AlphaBlarneyCureC
+}
+
+rule AlphaBlarneyTlkSmell
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkSmell
+	response		AlphaBlarneySmell
+}
+rule AlphaBlarneyTlkWound
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkWound
+	response		AlphaBlarneyWound
+}
+rule AlphaBlarneyTlkMortal
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkMortal
+	response		AlphaBlarneyMortal
+}
+
+
+// Pre disaster
+rule AlphaBlarneyTlkHelloPre
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkHello IsPreDisaster
+	response		NullResponse
+}
+
+rule AlphaBlarneyTlkQuestionPre
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkQuestion IsPreDisaster
+	response		AlphaBlarneyQuestionPreDisaster
+}
+rule AlphaBlarneyTlkIdlePre
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkIdle IsPreDisaster
+	response		NullResponse
+}
+
+rule AlphaBlarneyTlkHelloPost
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkHello IsPostDisaster
+	response		AlphaBlarneyHelloPostDisaster
+}
+
+rule AlphaBlarneyTlkQuestionPost
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkQuestion IsPostDisaster
+	response		AlphaBlarneyQuestionPostDisaster
+}
+rule AlphaBlarneyTlkIdlePost
+{
+	criteria		IsHL1AlphaBlarney ConceptTalkIdle IsPostDisaster
+	response		AlphaBlarneyIdlePostDisaster
+}

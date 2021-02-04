@@ -1,0 +1,91 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Much better"
+    {
+      time 0.000000 2.340680
+      param "k_lab.kleiner_53"
+      fixedlength
+    }
+    event speak "Mossmans advice"
+    {
+      time 8.000000 18.097052
+      param "k_lab.kleiner_55"
+      fixedlength
+    }
+    event speak "Last"
+    {
+      time 23.549999 39.016846
+      param "k_lab.kleiner_57"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event face "Face barney"
+    {
+      time 3.833333 8.020000
+      param "Barney"
+    }
+    event lookat "Look at player"
+    {
+      time 0.033334 2.360000
+      param "!player"
+    }
+    event lookat "Look at barney"
+    {
+      time 8.066667 18.040001
+      param "Barney"
+    }
+  }
+}
+
+actor "Barney"
+{
+  channel "voice"
+  {
+    event speak "Okay gang"
+    {
+      time 2.430000 7.983378
+      param "k_lab.barney_54"
+      fixedlength
+    }
+    event speak "I don't tell you how to do your science"
+    {
+      time 18.200001 23.523901
+      param "k_lab.barney_56"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at player"
+    {
+      time 3.486666 7.993333
+      param "!player"
+    }
+    event lookat "Look at Kleiner"
+    {
+      time 8.093335 23.506668
+      param "Kleiner"
+    }
+    event face "face player"
+    {
+      time 3.126667 3.453333
+      param "!player"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitSelfIlluminatedTexture
+	"$no_draw" 1//"models/Police/ear"
+	"$selfillum" 1
+}

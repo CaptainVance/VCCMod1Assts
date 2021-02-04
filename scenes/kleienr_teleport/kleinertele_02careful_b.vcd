@@ -1,0 +1,24 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Voice"
+  {
+    event speak "Careful with that thing"
+    {
+      time 0.000000 1.101497
+      param "k_tele.barney_37"
+      fixedlength
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shadertest/gooinglass"
+	"$translucent" 1
+}

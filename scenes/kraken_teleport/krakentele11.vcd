@@ -1,0 +1,43 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Look at"
+  {
+    event lookat "Look at kleiner"
+    {
+      time 0.080000 2.306666
+      param "Kleiner"
+    }
+    event face "Face player"
+    {
+      time 2.633334 3.046667
+      param "!player"
+    }
+  }
+  channel "Voice"
+  {
+    event speak "31"
+    {
+      time 0.000000 2.294785
+      param "krak_Tele.barney_31"
+      fixedlength
+    }
+    event speak "32"
+    {
+      time 2.640000 10.625851
+      param "krak_Tele.barney_32"
+      fixedlength
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

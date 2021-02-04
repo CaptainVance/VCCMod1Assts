@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Zombie_Classic/sleeve"
+"$alphatest" 1
+   $nocull 1
+}

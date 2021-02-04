@@ -1,0 +1,97 @@
+
+WeaponData
+{
+	// Weapon data is loaded by both the Game and Client DLLs.
+	"printname"	"Assault Rifle"
+	"viewmodel"			"models/weapons/v_oicw.mdl" //v_ar2
+	"playermodel"			"models/weapons/w_ar2.mdl"
+	"anim_prefix"			"ar2"
+	"bucket"				"5"
+	"bucket_position"		"1"
+
+	"clip_size"			"30"
+	"default_clip"			"30"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"Pistol"
+	"secondary_ammo"		"SMG1_Grenade"
+
+	"weight"			"2"
+	"rumble"			"4"
+	"item_flags"			"0"
+
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+	SoundData
+	{
+		"empty"				"Weapon_OICW.Empty"
+		"reload"			"Weapon_OICW.Reload"
+		"single_shot"			"Weapon_OICW.Single"
+	    //Zoom in
+		"special1"			"Weapon_OICW.Special1"
+		//Zoom out
+		"special2"			"Weapon_OICW.Special2"
+		"double_shot"		"Weapon_OICW.Altfire"
+		// NPC SECTION
+		"single_shot_npc"	"Barney.FirePistol"
+		"reload_npc"		"Weapon_SMG1.NPC_Reload"
+		"double_shot_npc"	"Barney.FirePistol"
+	}
+
+	// Weapon Sprite data is loaded by the Client DLL.
+	TextureData
+	{
+		"weapon"
+		{
+				"font"		"WeaponIcons"
+				"character"	"f"
+		}
+		"weapon_s"
+		{	
+				"font"		"WeaponIconsSelected"
+				"character"	"f"
+		}
+		"weapon_small"
+		{
+				"font"		"WeaponIconsSmall"
+				"character"	"f"
+		}
+		"ammo"
+		{
+				"file"		"sprites/a_icons1"
+				"x"			"70"
+				"y"			"60"
+				"width"		"73"
+				"height"	"15"
+		}
+		"ammo2"
+		{
+				"file"		"sprites/a_icons1"
+				"x"			"70"
+				"y"			"110"
+				"width"		"73"
+				"height"	"20"
+		}
+		"crosshair"
+		{
+				"font"		"Crosshairs"
+				"character"	"Q"
+		}
+		"autoaim"
+		{
+				"file"		"sprites/crosshairs"
+				"x"			"0"
+				"y"			"48"
+				"width"		"24"
+				"height"	"24"
+		}
+	}
+	MuzzleFlash
+	{
+		muzzleflash_red 	254
+		muzzleflash_green 	230
+		muzzleflash_blue 	187
+		muzzleflash_radius 	110
+	}
+}

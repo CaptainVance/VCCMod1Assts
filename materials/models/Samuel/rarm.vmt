@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/samuel/rarm"
+	"$envmapmask" "models/samuel/rarmmask"
+	"$envmap" "models/cremator/cremsuitenvmap"
+	//"$envmapsphere" 1
+}

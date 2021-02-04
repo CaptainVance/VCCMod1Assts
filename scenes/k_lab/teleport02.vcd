@@ -1,0 +1,116 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "audio"
+  {
+    event speak "did it work"
+    {
+      time 0.086666 1.818730
+      param "k_lab.kl_diditwork"
+      fixedlength
+    }
+    event speak "relieved"
+    {
+      time 3.913334 8.581815
+      param "k_lab.kl_relieved"
+      fixedlength
+    }
+    event speak "credit"
+    {
+      time 12.613333 17.321699
+      param "k_lab.kl_credit"
+      fixedlength
+    }
+    event speak "few moments01"
+    {
+      time 19.739998 20.450542
+      param "k_lab.kl_fewmoments01"
+      fixedlength
+    }
+    event speak "few moments02"
+    {
+      time 20.486664 22.386143
+      param "k_lab.kl_fewmoments02"
+      fixedlength
+    }
+  }
+  faceposermodel "U:\HL2\hl2\models\Kleiner.mdl"
+}
+
+actor "Eli"
+{
+  channel "audio"
+  {
+    event speak "see for yourself"
+    {
+      time 2.013333 3.037007
+      param "k_lab.eli_seeforyourself"
+      fixedlength
+    }
+    event speak "phenomenal01"
+    {
+      time 8.693330 10.576482
+      param "k_lab.eli_phenom01"
+      fixedlength
+    }
+    event speak "bring Gordon through"
+    {
+      time 17.493332 19.478094
+      param "k_lab.eli_bringthrough"
+      fixedlength
+    }
+    event speak "phenomenal02"
+    {
+      time 10.713333 12.130181
+      param "k_lab.eli_phenom02"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+    event lookat "look at monitor"
+    {
+      time 0.946667 19.660000
+      param "eli_camera_1"
+    }
+  }
+  faceposermodel "U:\HL2\hl2\models\Eli.mdl"
+}
+
+actor "Alyx"
+{
+  channel "audio"
+  {
+    event speak "hey doc"
+    {
+      time 3.166668 3.692609
+      param "k_lab.al_heydoc"
+      fixedlength
+    }
+  }
+  channel "move to"
+  {
+    event moveto "go to monitor"
+    {
+      time 1.200000 -1.000000
+      param "alyx_eli_lab_monitor_mark"
+    }
+    event face "face camera"
+    {
+      time 2.800000 7.540000
+      param "eli_camera_1"
+    }
+  }
+  channel "look at"
+  {
+    event lookat "look at camera"
+    {
+      time 0.873334 11.460000
+      param "eli_camera1"
+    }
+  }
+  faceposermodel "U:\HL2\hl2\models\alyx.mdl"
+}
+
+fps 60
+snap off

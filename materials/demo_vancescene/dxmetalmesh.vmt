@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$translucent" 1
+	"$basetexture" "demo_vancescene/dxmetalmesh"
+	"$nocull" 0
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+}

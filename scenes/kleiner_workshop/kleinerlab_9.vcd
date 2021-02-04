@@ -1,0 +1,43 @@
+// Choreo version 1
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Very good"
+    {
+      time 0.000000 1.009705
+      param "k_lab.kleiner_50"
+      fixedlength
+    }
+    event speak "Health stations"
+    {
+      time 1.246667 14.051565
+      param "k_lab.kleiner_51"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at player"
+    {
+      time -0.000000 1.026666
+      param "!player"
+    }
+    event lookat "Look at player"
+    {
+      time 2.033333 14.033334
+      param "!player"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+  "SceneRampTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "halflife/fifties_ggt8"
+	"$surfaceprop" "computer"
+}

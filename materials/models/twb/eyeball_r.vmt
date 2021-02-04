@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$basetexture" "models/twb/eyeball_r"
+	"$iris" "models/twb/pupil_r"
+}

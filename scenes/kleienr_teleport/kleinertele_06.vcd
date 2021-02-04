@@ -1,0 +1,100 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Voice"
+  {
+    event speak "I'll be damned"
+    {
+      time 0.000000 1.193288
+      param "k_tele.barney_60"
+      fixedlength
+    }
+    event speak "Right side out"
+    {
+      time 8.886667 12.558323
+      param "k_tele.barney_62"
+      fixedlength
+    }
+    event speak "It's all you doc!"
+    {
+      time 14.573335 15.720727
+      param "k_tele.barney_64"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event face "Face player"
+    {
+      time 0.000000 1.226667
+      param "!player"
+    }
+    event lookat "Look at gordon"
+    {
+      time 8.873333 12.513332
+      param "!player"
+    }
+    event lookat "Look at kleiner"
+    {
+      time 12.560000 15.713333
+      param "Kleiner"
+    }
+  }
+}
+
+actor "Kleiner"
+{
+  channel "Voice"
+  {
+    event speak "Ready"
+    {
+      time 1.253334 8.917913
+      param "k_tele.kleiner_61"
+      fixedlength
+    }
+    event speak "Final sequence"
+    {
+      time 12.566666 14.540180
+      param "k_tele.kleiner_63"
+      fixedlength
+    }
+    event speak "Now!"
+    {
+      time 16.039999 17.508661
+      param "k_tele.kleiner_65"
+      fixedlength
+    }
+  }
+  channel "Animation"
+  {
+    event sequence "Comp pose"
+    {
+      time 0.000000 17.553331
+      param "comppose01"
+    }
+  }
+  channel "Look at"
+  {
+    event face "Face monitor"
+    {
+      time 0.000000 0.626667
+      param "!target1"
+    }
+    event lookat "Look at monitor"
+    {
+      time 0.653333 17.593336
+      param "!target1"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

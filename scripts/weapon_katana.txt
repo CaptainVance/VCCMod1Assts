@@ -1,0 +1,66 @@
+// Crowbar
+
+WeaponData
+{
+	// Weapon data is loaded by both the Game and Client DLLs.
+	printname				"Katana"
+	"viewmodel"				"models/weapons/v_katana.mdl"
+	"playermodel"			"models/weapons/w_Katana.mdl"
+	"anim_prefix"			"crowbar"
+	bucket					0
+	bucket_position			2
+	bucket_nolimit 			0
+	bucket_position_nolimit 0
+
+
+	"clip_size"				"-1"
+	"primary_ammo"			"None"
+	"secondary_ammo"		"None"
+
+	"weight"				"0"
+	"item_flags"			"0"
+
+	hideammostock 			1
+	hideammosecondary 		1
+
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+	SoundData
+	{
+		"single_shot"		"Weapon_Crowbar.Single"
+		"melee_hit"			"E3_Phystown.Slicer"
+		"melee_hit_world"	"Weapon_Crowbar.Melee_HitWorld"
+	}
+
+	// Weapon Sprite data is loaded by the Client DLL.
+	TextureData
+	{
+		"weapon"
+		{
+				"font"		"WeaponIcons"
+				"character"	"c"
+		}
+		"weapon_s"
+		{	
+				"font"		"WeaponIconsSelected"
+				"character"	"c"
+		}
+		"ammo"
+		{
+				"font"		"WeaponIcons"
+				"character"	"c"
+		}
+		"crosshair"
+		{
+				"font"		"Crosshairs"
+				"character"	"Q"
+		}
+		"autoaim"
+		{
+			"file"		"sprites/crosshairs"
+			"x"			"0"
+			"y"			"48"
+			"width"		"24"
+			"height"	"24"
+		}
+	}
+}

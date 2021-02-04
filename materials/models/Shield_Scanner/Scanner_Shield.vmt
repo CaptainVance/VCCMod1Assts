@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/Shield_Scanner/Scanner_Shield"
+	"$envmap" "models/Shield_Scanner/Scanner_Shield_Mask"
+	"$additive" 1
+	"Proxies"
+	{
+		"Alpha"
+		{
+			"model" 1
+		}
+	}
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/thresh/glass"
+	"$selfillum"	1
+}
