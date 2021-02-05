@@ -1,6 +1,9 @@
 expressions/
 save/
 
+cfg/config.cfg
+cfg/server_blacklist.txt
+
 sound/sound.cache
 GameState.txt
 demoheader.tmp
