@@ -118,6 +118,16 @@ $fadein 0.01
 $holdtime 3.5
 $position -1 0.58
 
+VCC_CHAPTER2_TITLE
+{
+#VCCMod1Assts_Chapter2_Title
+}
+
+VCC_CHAPTER2_FIVEYEARS
+{
+#VCCMod1Assts_Chapter2_FiveYears
+}
+
 EP2_CHAPTER1_TITLE
 {
 #ep2_Chapter1_Title
