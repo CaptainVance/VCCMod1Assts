@@ -632,13 +632,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "bebasneue"
+				"name"  "Arial"
 				"tall"			"72"
 				"tall_hidef"	"96"
 				"weight" "0"
 				"additive" "0"
 				"antialias" "1"
-				"custom"	"1" [$OSX]
+				// "custom"	"1" [$OSX]
 			}
 		}
 		CreditsLogo
