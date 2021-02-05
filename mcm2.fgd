@@ -5199,7 +5199,6 @@
 	]
 
 ]
-@NPCClass base
 
 @NPCClass base(BaseNPC) studio("models/scientist02.mdl") = monster_sitting_scientist : "Sitting Scientist"
 [

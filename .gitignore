@@ -1,2 +1,10 @@
 expressions/
 save/
+
+sound/sound.cache
+GameState.txt
+demoheader.tmp
+ep1_gamestats.dat
+modelsounds.cache
+stats.txt
+voice_ban.dt
