@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/gordon/gordon_sheet"
+	"$envmap" "env_cubemap"	
+	"$bumpmap" "Models/gordon/gordon_sheet_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$selfillum" "1"
+	"$halflambert" 1
+}
