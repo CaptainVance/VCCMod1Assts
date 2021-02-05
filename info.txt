@@ -1,5 +1,0 @@
-demo_anarchy's the oldest demo. It relies a lot on the hl2-leak texture set, so make sure you have that before trying to compile
-It's an attempt to simulate a riot at some kind of airport(got visgrouped out), which I incompletely replaced with some sort of fence area.
-
-demo_indus_ghetto's the map I showed you recently. It should have all of the materials over in that other folder, in "demo_indus_ghetto".
-It is well vigrouped, but there isn't much to it beyond what I showed you - you basically just all through a hole in the fence.
