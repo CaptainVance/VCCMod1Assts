@@ -9,7 +9,7 @@
 	{
 		"wave"	"barney/ba_pain1.wav"
 		"wave"	"barney/ba_pain2.wav"
-		"wave"	"barney/ba_pain3.wav
+		"wave"	"barney/ba_pain3.wav"
 	}
 }
 
@@ -24,7 +24,7 @@
 	{
 		"wave"	"barney/ba_die1.wav"
 		"wave"	"barney/ba_die2.wav"
-		"wave"	"barney/ba_die3.wav
+		"wave"	"barney/ba_die3.wav"
 	}
 }
 
