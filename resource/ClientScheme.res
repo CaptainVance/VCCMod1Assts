@@ -633,8 +633,8 @@ Scheme
 			"1"
 			{
 				"name"  "Arial"
-				"tall"			"72"
-				"tall_hidef"	"96"
+				"tall"			"32"
+				"tall_hidef"	"46"
 				"weight" "0"
 				"additive" "0"
 				"antialias" "1"

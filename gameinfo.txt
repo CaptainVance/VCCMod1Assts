@@ -2,7 +2,7 @@
 {
 	game 		"Manwich's Oddyssey"
 	title 		"Manwich's Oddyssey"
-	title2		"(ALPHA)"
+	title2		""
 	developer	"Valve Cut Content"
 	
 	"icon" 			"resource/hongo_downsized" 
