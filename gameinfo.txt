@@ -1,9 +1,9 @@
 "GameInfo"
 {
-	game 		"HL2-Integration"
-	title 		"HL2-Integration"
-	title2		""
-	developer	"Resvue 12"
+	game 		"Manwich's Oddyssey"
+	title 		"Manwich's Oddyssey"
+	title2		"(ALPHA)"
+	developer	"Valve Cut Content"
 	
 	"icon" 			"resource/hongo_downsized" 
 	
