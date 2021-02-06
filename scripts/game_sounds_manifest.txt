@@ -142,4 +142,5 @@ game_sounds_manifest
 	"precache_file"		"scripts/npc_sounds_vortboss.txt"
 	
 	"precache_file"		"scripts/cremator_orig_sounds.txt"
+	"precache_file"		"scripts/level_sounds_hazard.txt"
 }

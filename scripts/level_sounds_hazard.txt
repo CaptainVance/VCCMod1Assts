@@ -1,0 +1,116 @@
+"HazardCourse.welcome"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/welcome.wav"
+}
+
+"HazardCourse.hev01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/hev01.wav"
+}
+
+"HazardCourse.hev02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/hev02.wav"
+}
+
+"HazardCourse.moving_around"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/moving_around.wav"
+}
+
+"HazardCourse.jumping"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/jumping.wav"
+}
+
+"HazardCourse.crouching"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/crouching.wav"
+}
+
+"HazardCourse.combined"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/combined.wav"
+}
+
+"HazardCourse.bugged_jumping"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/bugged_jumping.wav"
+}
+
+"HazardCourse.healthstation01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/healthstation01.wav"
+}
+
+"HazardCourse.healthstation02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/healthstation02.wav"
+}
+
+"HazardCourse.bangbangpowpow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/bangbangpowpow.wav"
+}
+
+"HazardCourse.explosives"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/explosives.wav"
+}
+
+"HazardCourse.abh"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_IDLE"
+	"pitch"		"PITCH_NORM"
+	"wave"	"*vo/hazard_course/abh.wav"
+}
