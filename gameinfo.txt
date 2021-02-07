@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game 		"Manwich's Oddyssey"
-	title 		"Manwich's Oddyssey"
+	game 		"Manwich's Odyssey"
+	title 		"Manwich's Odyssey"
 	title2		""
 	developer	"Valve Cut Content"
 	
