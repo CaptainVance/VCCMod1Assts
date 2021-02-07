@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "neotokyo/szico_neojapsign"
-
-	"$selfillum" 1
-	"$surfaceprop" "glass"
-}

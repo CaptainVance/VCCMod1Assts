@@ -1,6 +1,0 @@
-"Teeth"
-{
-	"$basetexture" "models/samuel/upper_teeth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-}

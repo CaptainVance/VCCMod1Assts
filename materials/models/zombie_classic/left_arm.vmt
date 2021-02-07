@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitAlphaTestedTexture
-	"$basetexture" "models/Zombie/left_arm"
-	"$alphatest" 1
-   $nocull 1
-}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/samuel/c17leg"
-	"$bumpmap"    "models/samuel/c17leg_normal"
-}

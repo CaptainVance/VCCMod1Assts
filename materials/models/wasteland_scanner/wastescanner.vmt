@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/wasteland_scanner/wastescanner"
-	"$model" 1
-	$selfillum 1
-}

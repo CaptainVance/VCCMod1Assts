@@ -3,13 +3,10 @@ game_sounds_manifest
 	"precache_file"		"scripts/game_sounds.txt"
 	"precache_file"		"scripts/game_sounds_ui.txt"
 	"precache_file"		"scripts/game_sounds_player.txt"
-	"precache_file"		"scripts/game_sounds_hl1.txt"
-	"precache_file"		"scripts/game_sounds_hongo.txt"
 
 	// Weapon sounds
 	"precache_file"		"scripts/game_sounds_weapons.txt"
 	"precache_file"		"scripts/game_sounds_weapons_ep2.txt"
-	"precache_file"		"scripts/game_sounds_weapons_cstrike.txt"
 
 	// HL2 World, Ambient Generic, Items, Physics, Vehicles
 	"precache_file"		"scripts/game_sounds_world.txt"
@@ -18,26 +15,14 @@ game_sounds_manifest
 	"precache_file"		"scripts/game_sounds_physics.txt"
 	"precache_file"		"scripts/game_sounds_vehicles.txt"
 
-	// Kleiner lab (why are there so many files for them? Whoops.)
-	"precache_file"		"scripts/game_sounds_k_lab.txt"
-	"precache_file"		"scripts/game_sounds_k_lab2.txt"
-	"precache_file"		"scripts/game_sounds_kleiner_workshop.txt"
-	"precache_file"		"scripts/game_sounds_kleiner_teleport.txt"
-	"precache_file"		"scripts/game_sounds_kraken_teleport.txt"
-
 	// E3 level sounds
-	"precache_file"		"scripts/game_sounds_e3_c17.txt"
-	"precache_file"		"scripts/game_sounds_e3_lab.txt"
-	"precache_file"		"scripts/game_sounds_e3_town.txt"
-	"precache_file"		"scripts/game_sounds_e3_bugbait.txt"
-	"precache_file"		"scripts/game_sounds_e3_seafloor.txt"
-	"precache_file"		"scripts/game_sounds_kleiner_workshop.txt"
+	"precache_file"		"scripts/level_sounds_e3_c17.txt"
+	"precache_file"		"scripts/level_sounds_e3_town.txt"
+	"precache_file"		"scripts/level_sounds_e3_bugbait.txt"
 
 	// Episodic content sounds
 	"precache_file"		"scripts/npc_sounds_alyx_episodic.txt"
 	"precache_file"		"scripts/npc_sounds_strider_episodic.txt"
-	"precache_file"		"scripts/npc_sounds_dog.txt"
-	"precache_file"		"scripts/npc_sounds_combineguard.txt"
 	"precache_file"		"scripts/npc_sounds_strider_episodic2.txt"
 	"precache_file"		"scripts/npc_sounds_turret_episodic.txt"
 	"precache_file"		"scripts/npc_sounds_soldier_episodic.txt"
@@ -55,8 +40,6 @@ game_sounds_manifest
 	"precache_file"		"scripts/npc_sounds_advisor.txt"
 	"precache_file"		"scripts/npc_sounds_advisor_episodic2.txt"
 	"precache_file"		"scripts/npc_sounds_hunter.txt"
-	"precache_file"		"scripts/npc_sounds_gascit.txt"
-	"precache_file"		"scripts/npc_sounds_assassin.txt"
 	"precache_file"		"scripts/npc_sounds_antlion_grub_episodic.txt"
 	"precache_file"		"scripts/npc_sounds_attackheli_episodic2.txt"
 	"precache_file"		"scripts/npc_sounds_fastzombie_episodic2.txt"
@@ -92,14 +75,12 @@ game_sounds_manifest
 	"precache_file"		"scripts/level_sounds_ravenholm.txt"
 	"precache_file"		"scripts/level_sounds_ravenholm2.txt"
 	"precache_file"		"scripts/level_sounds_canals2.txt"
-	"precache_file"		"scripts/level_sounds_e3_lab.txt"
 
 	//Music Tracks
 	"precache_file"		"scripts/level_sounds_music.txt"
 
 	// NPC Sounds
 	"precache_file"		"scripts/npc_sounds_eli.txt"
-	"precache_file"		"scripts/npc_sounds_bullsquid.txt"
 	"precache_file"		"scripts/npc_sounds_alyx.txt"
 	"precache_file"		"scripts/npc_sounds_dog.txt"
 	"precache_file"		"scripts/npc_sounds_citizen.txt"
@@ -136,11 +117,7 @@ game_sounds_manifest
    	"precache_file"		"scripts/npc_sounds_combine_cannon.txt"
 	"precache_file"		"scripts/npc_sounds_alyx_episodic2.txt"
 	"precache_file"		"scripts/npc_sounds_turret_episodic2.txt"
-	"precache_file"		"scripts/npc_sounds_conscript.txt"
-	"precache_file"		"scripts/npc_sounds_cremator.txt"
-	"precache_file"		"scripts/npc_sounds_combineguard.txt"
-	"precache_file"		"scripts/npc_sounds_vortboss.txt"
 	
-	"precache_file"		"scripts/cremator_orig_sounds.txt"
+	// MOD STUFF
 	"precache_file"		"scripts/level_sounds_hazard.txt"
 }

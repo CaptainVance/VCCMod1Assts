@@ -1,6 +1,0 @@
-"JellyFish"
-{
-	"$basetexture" "models/hydra/bodysplit"
-	"$gradienttexture" "models/hydra/gradient"
-	"$model" 1
-}

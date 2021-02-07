@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Barney/helmet"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.8 .9 1]"
-	"$basealphaenvmapmask" 1
-}

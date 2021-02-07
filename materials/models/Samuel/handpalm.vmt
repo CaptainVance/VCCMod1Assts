@@ -1,5 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/samuel/handpalm"
-	"$bumpmap"    "models/samuel/handpalm_normal"
-}

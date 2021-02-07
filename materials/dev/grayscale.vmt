@@ -1,5 +1,0 @@
-Grayscale
-{
-	$fbtexture			"_rt_FullFrameFB"
-	%noToolTexture		1
-}

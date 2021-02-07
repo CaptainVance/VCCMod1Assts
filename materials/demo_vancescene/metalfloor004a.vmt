@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "demo_vancescene/metalfloor004a"
-//	"$envmap" "env_cubemap"
-	"$surfaceprop" "metal"
-//	"$bumpmap" "demo_vancescene/metalfloor004a_normal"
-	"%keywords" "borealis"
-}

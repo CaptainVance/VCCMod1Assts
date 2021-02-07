@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Zombie/left_leg"
-	"$alphatest" 1
-   $nocull 1
-}

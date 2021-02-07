@@ -1,8 +1,0 @@
-"vertexlitgeneric"
-{
-	// original shader: basetimeslightmapselfillum
-	"$basetexture" "wood/woodburnt001a"
-	"$selfillum" 1
-	"$surfaceprop" "wood"
-	"%keywords" "c17skyscraper"
-}

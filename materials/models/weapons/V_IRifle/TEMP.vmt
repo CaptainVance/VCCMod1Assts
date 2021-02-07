@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "models/weapons/V_Irifle/TEMP"
-	//"$selfillum" 1
-}

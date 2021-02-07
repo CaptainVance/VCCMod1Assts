@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	 //Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/V_ar1/clips2"
-        "$bumpmap" "models/Weapons/V_ar1/clips2_normal"
-}

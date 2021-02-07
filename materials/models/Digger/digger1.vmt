@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/digger/digger1"
-	"$surfaceprop" "metal"
-}

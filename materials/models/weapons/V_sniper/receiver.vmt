@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/V_sniper/reciever"
-	"$bumpmap" "models/weapons/v_sniper/receiver_normal"
-}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/ihvtest/armband"
-	"$bumpmap" "models/ihvtest/outin_normal"
-}

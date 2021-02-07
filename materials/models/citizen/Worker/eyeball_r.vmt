@@ -1,5 +1,0 @@
-"eyes"
-{
-	"$basetexture" "models/citizen/worker/eyeball_r"
-	"$iris" "models/citizen/worker/pupil_r"
-}

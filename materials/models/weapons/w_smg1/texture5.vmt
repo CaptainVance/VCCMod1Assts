@@ -1,8 +1,0 @@
-"Unlittwotexture"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/V_smg2/TEXTURE5"
-	"$texture2" "models/Weapons/V_smg2/noise"
-	"$additive" 1
-	"$model" 1
-}

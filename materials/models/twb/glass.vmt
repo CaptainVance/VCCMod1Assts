@@ -1,5 +1,0 @@
-"vertexlitgeneric"
-{
-	// Original shader: TranslucentSpecularSphericalEnvMap
-	"$basetexture" "models/twb/glass"
-}

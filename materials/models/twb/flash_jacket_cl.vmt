@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/twb/flack jacket_cl"
-	// "$bumpmap" "models\CPSWAT/flackjacket_cl_normal"
-}

@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Taters/leg2_cyl"
-//	"$envmap" "env_cubemap"
-//	"$envmaptint" "[1.0 1.0 1.0]"
-	"$normalmapalphaenvmapmask" 1
-	"$model" 1
-//	"$envmapcameraspace" "1"
-}

@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/Antlion_Grub/grub"
-	"$envmapmask" "models/Antlion_Grub/grub_m"
-	"$envmap" "models/Antlion_Grub/grub_env"
-	"$envmapsphere" 1
-}

@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/obsolete/TBot1/aFootRight"
-	"$envmapmask" "models/obsolete/TBot1/aFootRight_Mask"
-	"$envmap" "models/obsolete/TBot1/TBot_envmap"
-	"$envmapsphere" 1
-	"$multipass" 1
-}

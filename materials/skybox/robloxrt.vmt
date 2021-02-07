@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-$ignorez 1
-	// Original shader: BaseTexture
-	"$basetexture" "skybox/robloxrt"
-	"$nofog" 1
-}

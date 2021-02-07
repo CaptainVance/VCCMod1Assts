@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/fombie_Classic/headcrab"
-	"$envmapmask" "models/fombie_Classic/headcrab_envmask"
-	"$envmap" "models/fombie_Classic/envmap"
-	"$envmapsphere" 1
-}

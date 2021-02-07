@@ -1,9 +1,0 @@
-"vertexlitGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-//	"$alphatest" 1
-	"$basetexture" "Models/ihvtest_tree/treebranch01b"
-	"$nocull" 1
-	"$model" 1
-}

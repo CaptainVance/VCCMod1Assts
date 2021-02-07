@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/twb/gloves_cl"
-	// "$bumpmap" "models\CPSWAT/gloves_cl_normal"
-}

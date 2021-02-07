@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/hl1a/barney/Gun1"
-	"$surfaceprop" "SlipperyMetal"
-	"$nocull" 1
-}

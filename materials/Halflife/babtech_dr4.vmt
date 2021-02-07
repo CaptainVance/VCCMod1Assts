@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapPlusMaskedSphericalEnvMap
-	"$basetexture" "halflife/babtech_dr4"
-	"$envmapsphere" 1
-	"$envmap" "environment maps/envmap001a"
-	"$envmapmask" "halflife/babtech_dr4r"
-	"$surfaceprop" "metal"
-}

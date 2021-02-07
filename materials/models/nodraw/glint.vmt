@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$no_draw" 1//"models/Police/glint"
-	"$additive" 1
-	"$model" 1
-}

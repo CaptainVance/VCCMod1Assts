@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\weapons/v_ml/missle"
-	"$bumpmap" "models/weapons/v_ml/missle_normal"
-}

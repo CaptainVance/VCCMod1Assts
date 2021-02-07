@@ -1,6 +1,0 @@
-"Teeth"
-{
-	"$basetexture" "models/Humans/Female/lower_teeth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-}

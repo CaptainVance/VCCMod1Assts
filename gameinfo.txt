@@ -5,8 +5,6 @@
 	title2		""
 	developer	"Valve Cut Content"
 	
-	"icon" 			"resource/hongo_downsized" 
-	
 	supportsvr	1
 	nodifficulty                                    1
 
@@ -25,6 +23,7 @@
 			game_lv				hl2/hl2_lv.vpk
 			game+mod			ep2/ep2_english.vpk
 			game+mod			ep2/ep2_pak.vpk
+			game				|gameinfo_path|hl1_assets.vpk
 			game				|all_source_engine_paths|episodic/ep1_english.vpk
 			game				|all_source_engine_paths|episodic/ep1_pak.vpk
 			game				|all_source_engine_paths|hl2/hl2_english.vpk

@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\cf_characters/glass"
-        "$translucent" 1
-}

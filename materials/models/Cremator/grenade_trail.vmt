@@ -1,7 +1,0 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "models/cremator/grenade_trail.vmt"
-	//"$spriterendermode" 5
-}

@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "dev/dev_paperposter001a"
-	"$surfaceprop" "paper"
-}

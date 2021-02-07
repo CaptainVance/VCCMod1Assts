@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
-	"$envmapsphere" 1
-	"$basealphaenvmapmask" 1
-	"$basetexture" "halflife/glass_bright"
-	"$envmap" "environment maps/envmap007a"
-	"$surfaceprop" "glass"
-}

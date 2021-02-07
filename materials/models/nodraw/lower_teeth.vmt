@@ -1,6 +1,0 @@
-"Teeth"
-{
-	"$no_draw" 1//"models/Police/lower_teeth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-}

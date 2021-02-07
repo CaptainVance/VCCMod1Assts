@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-//"wireframe"
-{
-	// Original shader: WorldAdditiveTransCubicEnvMapWithMaskedTexture
-	"$basealphaenvmapmask" 1
-	"$basetexture" "halflife/glass_c1a000"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "glass"
-}

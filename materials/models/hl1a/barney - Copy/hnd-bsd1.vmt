@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/hl1a/barney/Hnd-Bsd1"
-	"$surfaceprop" "Flesh"
-	"$nocull" 1
-}

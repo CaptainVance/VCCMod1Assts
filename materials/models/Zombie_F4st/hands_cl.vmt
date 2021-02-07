@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Zombie_F4st/hands_cl"
-	"$bumpmap" "models/Zombie_f4st/hands_cl_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmaptint" "[0.5 0.5 0.5]"
-}

@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: TranslucentSpecularSphericalEnvMap
-	"$additive" 1
-	"$envmap" "models/Citizen_17_Evil/glass"
-	"$envmapsphere" 1
-	"$model" 1
-}

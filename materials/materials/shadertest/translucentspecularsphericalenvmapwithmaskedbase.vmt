@@ -1,5 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/translucentspecularsphericalenvmapwithmaskedbase"
-	"$translucent" 1
-}

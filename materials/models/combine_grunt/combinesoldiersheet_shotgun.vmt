@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/combine_grunt/combinesoldiersheet_shotgun"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-//	"$envmap" "models/Police/envmap"
-//	"$envmapsphere" 1
-}

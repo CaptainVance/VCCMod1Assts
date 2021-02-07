@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	"$baseTexture" "models\weapons\rif_ak47\Wood"
-	"$envmap" "env_cubemap"
-	"$bumpmap" "models\weapons\rif_ak47\Wood_normal"
-	"$envmapmask" "models\weapons\rif_ak47\wood_ref"
-	"$normalmapalphaenvmapmask" "1"
-}

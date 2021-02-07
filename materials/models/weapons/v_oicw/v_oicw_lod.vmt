@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Weapons/V_oicw/v_oicw_2048"
-
-	$detail "Models/Weapons/V_oicw/v_oicw_glow"
-	$detailscale 1
-	$detailblendfactor "1"
-	$detailblendmode 5
-}
