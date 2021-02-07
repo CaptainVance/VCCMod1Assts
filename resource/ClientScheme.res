@@ -546,6 +546,7 @@ Scheme
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
 				"weight"	"500"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Italic"
@@ -558,6 +559,7 @@ Scheme
 				"tall"		"24" [$OSX]
 				"weight"	"500"
 				"italic"	"1"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Bold"
@@ -569,6 +571,7 @@ Scheme
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
 				"weight"	"900"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -581,6 +584,7 @@ Scheme
 				"tall"		"24" [$OSX]
 				"weight"	"900"
 				"italic"	"1"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Small"
@@ -593,6 +597,7 @@ Scheme
 				"tall"		"14" [$OSX]
 				"tall_hidef"	"24"
 				"weight"	"900"
+				"antialias" "1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
