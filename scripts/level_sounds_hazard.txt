@@ -2,7 +2,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/welcome.wav"
 }
@@ -11,7 +11,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/hev01.wav"
 }
@@ -20,7 +20,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/hev02.wav"
 }
@@ -29,7 +29,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/moving_around.wav"
 }
@@ -38,7 +38,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/jumping.wav"
 }
@@ -47,7 +47,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/crouching.wav"
 }
@@ -56,7 +56,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/combined.wav"
 }
@@ -65,7 +65,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/bugged_jumping.wav"
 }
@@ -74,7 +74,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/healthstation01.wav"
 }
@@ -83,7 +83,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/healthstation02.wav"
 }
@@ -92,7 +92,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/bangbangpowpow.wav"
 }
@@ -101,7 +101,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/explosives.wav"
 }
@@ -110,7 +110,7 @@
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
-	"soundlevel"	"SNDLVL_IDLE"
+	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"	"*vo/hazard_course/abh.wav"
 }
