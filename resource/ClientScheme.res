@@ -51,7 +51,7 @@ Scheme
 		"Caution"			"255 48 0 255"
 
 		// Top-left corner of the "Half-Life 2" on the main screen
-		"Main.Title1.X"			"53"
+		"Main.Title1.X"			"52"
 		"Main.Title1.Y"			"190"
 		"Main.Title1.Y_hidef"	"184"
 		"Main.Title1.Color"	"255 255 255 255"
@@ -632,13 +632,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "Arial"
+				"name"  "OCR B Sharp"
 				"tall"			"32"
 				"tall_hidef"	"46"
 				"weight" "0"
 				"additive" "0"
 				"antialias" "1"
-				// "custom"	"1" [$OSX]
+				"custom"	"1" [$OSX]
 			}
 		}
 		CreditsLogo
@@ -795,7 +795,7 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
 		"3"	"resource/HL2EP2.ttf"
-		"4"	"resource/bebasneue.ttf"		
+		"4"	"resource/OCRBS.ttf"		
 	}
 
 }

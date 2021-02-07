@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "VGUI/chapters/chapter1_locked"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
